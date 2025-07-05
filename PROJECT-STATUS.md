@@ -35,7 +35,7 @@
 
 | Metric | Target | Current |
 |--------|--------|---------|
-| Figures Identified | 50-200 | 101 (In Progress) |
+| Figures Identified | 50-200 | 177 |
 | Figures Selected | 50-200 | TBD |
 | Primary Sources | 60-150 | 0 |
 | Profiles Complete | 50-200 | 0 |
@@ -52,6 +52,10 @@
 
 ## ✅ Recent Updates
 
+- 2025-07-05: Added 4 critical NDE medical researchers (now 177 total)
+- 2025-07-05: Major expansion - 76 additional pioneers added from 101 to 177
+- 2025-07-05: Enhanced diversity across cultures, time periods, and gender representation
+- 2025-07-05: Added ancient philosophers, medieval mystics, indigenous wisdom keepers, NDE researchers
 - 2025-07-05: Significant progress - 101 initial pioneers documented in pioneer-figures.md
 - 2025-07-05: Added final 3 pioneers: Thich Nhat Hanh, Robert Monroe, Robert J. Gilbert
 - 2025-07-05: Comprehensive pioneer-figures.md with 11 categories finalized

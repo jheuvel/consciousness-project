@@ -1,6 +1,6 @@
 # Comprehensive List of Pioneer Figures in Non-Materialistic Consciousness Research
 
-This comprehensive compilation identifies 101 pioneer figures who have contributed to non-materialistic theories of consciousness across 11 specific categories. Each figure represents a unique approach to understanding consciousness as fundamental rather than emergent from matter.
+This comprehensive compilation identifies 177 pioneer figures who have contributed to non-materialistic theories of consciousness across 11 specific categories. Each figure represents a unique approach to understanding consciousness as fundamental rather than emergent from matter.
 
 ## Pioneer Figures Summary Table
 
@@ -102,6 +102,80 @@ This comprehensive compilation identifies 101 pioneer figures who have contribut
 | **Osho (Rajneesh)** | 1931-1990 | Controversial Inquirer | Eastern mysticism with Western psychology | 6/7 | Synthesis of meditation, therapy, and celebration |
 | **Wilhelm Reich** | 1897-1957 | Controversial Inquirer | Orgone energy theory, body-oriented therapy | 6/7 | Consciousness as biological energy |
 | **Terence McKenna** | 1946-2000 | Controversial Inquirer | Plant medicine consciousness exploration | 6/7 | Psychedelics as evolutionary tools |
+| **Pythagoras** | c. 570-490 BCE | Classical Philosopher | Mathematical harmony and reincarnation theory | 7/7 | Soul as divine spark requiring harmonic purification |
+| **Plotinus** | c. 204-270 CE | Classical Philosopher | Founded Neoplatonism with emanation theory | 6/7 | Consciousness as multiple layers from unity to multiplicity |
+| **Heraclitus** | c. 535-475 BCE | Classical Philosopher | Logos doctrine - individual consciousness as cosmic fragment | 6/7 | Consciousness as participation in universal reason |
+| **Parmenides** | c. 515-450 BCE | Classical Philosopher | Distinguished nous from sensory awareness | 5/7 | Consciousness as gateway to unchanging reality |
+| **Empedocles** | c. 494-434 BCE | Classical Philosopher | Four-element theory with Love and Strife | 6/7 | Cosmic consciousness cycles through attraction/separation |
+| **Valentinus** | c. 100-160 CE | Controversial Inquirer | Gnostic three-level consciousness psychology | 6/7 | Spiritual, psychic, and material levels of awareness |
+| **Proclus** | 412-485 CE | Classical Philosopher | Systematic Neoplatonic consciousness hierarchy | 5/7 | Consciousness as mediating principle |
+| **Iamblichus** | c. 245-325 CE | Classical Philosopher | Developed theurgy for consciousness ascent | 6/7 | Consciousness transformation through divine practices |
+| **Al-Ghazali** | 1058-1111 | Bridge Builder | Integrated philosophy with mystical experience | 7/7 | Stages from rational to intuitive to mystical knowing |
+| **Al-Suhrawardi** | 1155-1191 | Contemplative Practitioner | Illuminationist philosophy - consciousness as light | 6/7 | Consciousness as gradations of divine light |
+| **Ibn Tufail** | 1105-1185 | Classical Philosopher | Natural consciousness development theory | 5/7 | Innate spiritual intelligence |
+| **Mulla Sadra** | 1571-1636 | Classical Philosopher | Existentialist philosophy with substantial motion | 6/7 | Consciousness as dynamic existence in motion |
+| **Abraham Abulafia** | 1240-1291 | Contemplative Practitioner | Ecstatic Kabbalah through Hebrew letters | 6/7 | Consciousness transformation through sacred linguistics |
+| **Nicholas of Cusa** | 1401-1464 | Classical Philosopher | Learned ignorance and coincidence of opposites | 5/7 | Consciousness transcending rational knowledge |
+| **Hildegard of Bingen** | 1098-1179 | Contemplative Practitioner | Viriditas - cosmic life force consciousness | 6/7 | Consciousness as cosmic life force |
+| **Marguerite Porete** | d. 1310 | Contemplative Practitioner | Seven-stage consciousness evolution theory | 7/7 | Progressive ego dissolution stages |
+| **Emanuel Swedenborg** | 1688-1772 | Bridge Builder | Correspondence theory between spiritual/natural | 7/7 | Consciousness as bridge between spiritual and natural |
+| **Jakob Böhme** | 1575-1624 | Contemplative Practitioner | Christian mystical consciousness cosmology | 6/7 | Consciousness as divine self-revelation through opposites |
+| **Paracelsus** | 1493-1541 | Maverick Scientist | Astral body as consciousness-matter interface | 6/7 | Consciousness operating through multiple bodies |
+| **Giordano Bruno** | 1548-1600 | Classical Philosopher | Infinite cosmos with distributed consciousness | 7/7 | Infinite worlds with infinite consciousness |
+| **Franz Xaver von Baader** | 1765-1841 | Classical Philosopher | Catholic mystical philosophy | 5/7 | Consciousness as divine self-knowledge |
+| **Thomas Traherne** | 1636-1674 | Contemplative Practitioner | Consciousness as infinite divine felicity | 5/7 | Consciousness transformation through purified sight |
+| **Franz Anton Mesmer** | 1734-1815 | Maverick Scientist | Animal magnetism theory | 6/7 | Healing through manipulating consciousness energy fields |
+| **Helena Blavatsky** | 1831-1891 | Bridge Builder | Theosophical synthesis of East-West traditions | 7/7 | Consciousness evolution through multiple planes |
+| **George Gurdjieff** | 1866-1949 | Experiential Explorer | Fourth Way system for consciousness development | 7/7 | Conscious evolution through work on attention |
+| **P.D. Ouspensky** | 1878-1947 | Contemporary Philosopher | Systematized Fourth Way teachings | 6/7 | Objective consciousness through higher dimensions |
+| **Andrew Jackson Davis** | 1826-1910 | Experiential Explorer | Spiritualist cosmology of consciousness survival | 6/7 | Consciousness progression through spiritual spheres |
+| **Allan Kardec** | 1804-1869 | Consciousness Researcher | Systematized Spiritist doctrine | 6/7 | Consciousness evolution through incarnations |
+| **Éliphas Lévi** | 1810-1875 | Bridge Builder | Synthesized Western esoteric traditions | 6/7 | Consciousness transformation through magical practices |
+| **Anna Kingsford** | 1846-1888 | Bridge Builder | Christian esotericism with divine feminine | 6/7 | Consciousness as divine feminine wisdom |
+| **Sri Aurobindo** | 1872-1950 | Transpersonal Psychologist | Integral Yoga for supramental beings | 7/7 | Consciousness evolution to supramental realization |
+| **Ramakrishna Paramahamsa** | 1836-1886 | Contemplative Practitioner | Empirical exploration of multiple paths | 7/7 | Universal mysticism through diverse practices |
+| **Swami Vivekananda** | 1863-1902 | Bridge Builder | Neo-Vedanta with evolutionary thought | 6/7 | Consciousness as evolving divine potential |
+| **Nisargadatta Maharaj** | 1897-1981 | Contemplative Practitioner | Distinction between awareness and consciousness | 7/7 | Awareness as pure subjectivity beyond consciousness |
+| **J. Krishnamurti** | 1895-1986 | Contemplative Practitioner | Techniqueless meditation and choiceless awareness | 7/7 | Consciousness transformation through direct perception |
+| **Abhinavagupta** | 975-1025 | Contemplative Practitioner | Kashmir Shaivism Recognition philosophy | 7/7 | Consciousness recognizing its own divine nature |
+| **Nagarjuna** | c. 150-250 CE | Contemplative Practitioner | Madhyamaka emptiness doctrine | 6/7 | Consciousness as dependently originated emptiness |
+| **Vasubandhu** | 4th century | Contemplative Practitioner | Yogacara consciousness-only doctrine | 6/7 | Reality as consciousness transformation |
+| **Asanga** | 4th century | Contemplative Practitioner | Eight types of consciousness analysis | 6/7 | Consciousness purification through understanding |
+| **Longchenpa** | 1308-1364 | Contemplative Practitioner | Dzogchen natural perfection teachings | 7/7 | Natural perfection of primordial awareness |
+| **Hakuin Ekaku** | 1686-1769 | Contemplative Practitioner | Zen koan practice and cultivation | 6/7 | Sudden realization with gradual cultivation |
+| **Bankei Yōtaku** | 1622-1693 | Contemplative Practitioner | Unborn Buddha Mind teaching | 6/7 | Natural enlightened consciousness |
+| **Ian Stevenson** | 1918-2007 | Maverick Scientist | Scientific reincarnation research | 7/7 | Empirical evidence for consciousness survival |
+| **Wilder Penfield** | 1891-1976 | Maverick Scientist | Neurological dualism from brain surgery | 6/7 | Mind as distinct from but interacting with brain |
+| **Karl Pribram** | 1919-2015 | Physicist-Philosopher | Holonomic brain theory | 6/7 | Brain as hologram interfacing with holographic reality |
+| **Pierre Teilhard de Chardin** | 1881-1955 | Physicist-Philosopher | Noosphere and Omega Point theory | 7/7 | Cosmic evolution toward universal consciousness |
+| **Gustav Fechner** | 1801-1887 | Maverick Scientist | Psychophysical panpsychism | 6/7 | Consciousness as measurable aspect of all reality |
+| **William Crookes** | 1832-1919 | Maverick Scientist | Scientific investigation of psychic phenomena | 6/7 | Rigorous investigation of consciousness phenomena |
+| **Oliver Lodge** | 1851-1940 | Maverick Scientist | Physicist investigating consciousness survival | 6/7 | Consciousness research through scientific methodology |
+| **Julian of Norwich** | c. 1342-1416 | Contemplative Practitioner | Divine love mystical theology | 6/7 | Consciousness as participation in divine love |
+| **Evelyn Underhill** | 1875-1941 | Bridge Builder | Academic mysticism frameworks | 7/7 | Systematic study of consciousness transformation |
+| **Simone Weil** | 1909-1943 | Contemporary Philosopher | Attention as spiritual practice | 6/7 | Attention as consciousness purification |
+| **Mechthild of Magdeburg** | c. 1207-1282 | Contemplative Practitioner | Flowing Light mystical psychology | 6/7 | Consciousness flowing between human and divine |
+| **Hadewijch** | 13th century | Contemplative Practitioner | Love mysticism through courtly metaphors | 6/7 | Consciousness transformation through divine love |
+| **Gertrude the Great** | 1256-1302 | Contemplative Practitioner | Heart mysticism phenomenology | 6/7 | Consciousness centered in divine heart |
+| **Mogobe Ramose** | 1947-present | Contemporary Philosopher | Ubuntu philosophy - relational consciousness | 6/7 | Being as fundamentally interconnected |
+| **John Mbiti** | 1931-2019 | Contemporary Philosopher | African communal consciousness philosophy | 6/7 | Consciousness as community participation |
+| **Kwame Gyekye** | 1939-2019 | Contemporary Philosopher | Akan philosophy of personhood | 5/7 | Consciousness development through community wisdom |
+| **David Unaipon** | 1872-1967 | Indigenous Wisdom Keeper | Dreamtime consciousness concepts | 6/7 | Awareness connected to land and ancestors |
+| **Noel Pearson** | 1965-present | Indigenous Wisdom Keeper | Indigenous consciousness activism | 5/7 | Traditional awareness informing social change |
+| **Mudrooroo** | 1938-2019 | Indigenous Wisdom Keeper | Aboriginal consciousness through literature | 5/7 | Traditional awareness through modern expression |
+| **Wande Abimbola** | 1932-present | Bridge Builder | Ifá philosophy and consciousness | 6/7 | Divination and wisdom as consciousness development |
+| **Bolaji Idowu** | 1913-1993 | Bridge Builder | Yoruba consciousness theology | 5/7 | Traditional consciousness within religious thought |
+| **Taliesin** | 6th century | Contemplative Practitioner | Celtic consciousness shape-shifting | 6/7 | Awareness as shape-shifting between worlds |
+| **Fools Crow** | 1890-1989 | Indigenous Wisdom Keeper | Lakota vision quest traditions | 6/7 | Awareness through sacred visions and ceremonies |
+| **Rolling Thunder** | 1916-1997 | Indigenous Wisdom Keeper | Cherokee medicine consciousness | 6/7 | Healing through spiritual awareness |
+| **Sun Bear** | 1929-1992 | Indigenous Wisdom Keeper | Medicine wheel consciousness | 6/7 | Awareness through natural cycles |
+| **Credo Mutwa** | 1921-2020 | Indigenous Wisdom Keeper | Zulu shamanic consciousness | 7/7 | Healing and wisdom through ancestral connection |
+| **Malidoma Patrice Somé** | 1956-2021 | Indigenous Wisdom Keeper | Dagara ritual consciousness | 6/7 | Ritual and community as consciousness development |
+| **Serge Kahili King** | 1945-present | Bridge Builder | Hawaiian Huna consciousness | 6/7 | Mana and spiritual energy as consciousness development |
+| **Pim van Lommel** | 1943-present | Maverick Scientist | Lancet NDE study with flat EEG evidence | 7/7 | Non-local consciousness - brain as receiver |
+| **Michael Sabom** | 1946-present | Maverick Scientist | First systematic medical NDE studies | 7/7 | Empirical consciousness survival model |
+| **Peter Fenwick** | 1935-present | Maverick Scientist | Neuropsychiatrist studying dying process | 7/7 | Neurobiological consciousness transcendence |
+| **Jeffrey Long** | 1954-present | Maverick Scientist | NDERF database - 5,000+ NDE cases | 7/7 | Evidence-based consciousness survival |
 
 ## 1. Classical and Contemporary Philosophers
 
@@ -112,6 +186,88 @@ This comprehensive compilation identifies 101 pioneer figures who have contribut
 - **Key Contribution:** Developed foundational idealist philosophy with Theory of Forms - eternal, perfect ideas that physical reality imperfectly reflects. Established consciousness/soul as prior to and independent of physical body, capable of accessing eternal truths through philosophical contemplation.
 - **Criteria Met:** All 7 criteria - Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage, Synthetic Thinking
 - **Framework:** Platonic idealism - consciousness belongs to realm of eternal Forms, with philosophical contemplation as method for accessing ultimate reality
+
+**Pythagoras (c. 570-490 BCE)**
+- **Categories:** Classical Philosopher, Contemplative Practitioner
+- **Key Contribution:** Developed foundational theory of consciousness as divine principle requiring systematic development through mathematical harmony, music, and reincarnation cycles. Established soul as divine spark requiring purification.
+- **Criteria Met:** All 7 criteria - Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage, Synthetic Thinking
+- **Framework:** Pythagorean consciousness theory - soul as divine spark requiring purification through harmonic mathematics and multiple lifetimes
+
+**Plotinus (c. 204-270 CE)**
+- **Categories:** Classical Philosopher
+- **Key Contribution:** Founded Neoplatonism with systematic theory of consciousness involving three foundational elements: the One, Intelligence, and Soul from which all existence emanates.
+- **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Paradigm Expansion, Intellectual Courage, Synthetic Thinking
+- **Framework:** Neoplatonic emanation - consciousness as multiple layers from unity to multiplicity
+
+**Heraclitus (c. 535-475 BCE)**
+- **Categories:** Classical Philosopher
+- **Key Contribution:** Logos doctrine showing individual consciousness as fragment of universal rational consciousness, developed theory of consciousness through cosmic opposites.
+- **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
+- **Framework:** Logos philosophy - consciousness as participation in universal reason
+
+**Parmenides (c. 515-450 BCE)**
+- **Categories:** Classical Philosopher
+- **Key Contribution:** Distinguished between authentic knowing consciousness (nous) and ordinary sensory awareness, established consciousness as pathway to true being.
+- **Criteria Met:** Theoretical Innovation, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
+- **Framework:** Eleatic philosophy - consciousness as gateway to unchanging reality
+
+**Empedocles (c. 494-434 BCE)**
+- **Categories:** Classical Philosopher, Maverick Scientist
+- **Key Contribution:** Four-element theory with consciousness as cosmic Love and Strife forces, developed theory of consciousness transmigration through different life forms.
+- **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
+- **Framework:** Cosmic consciousness cycles through attraction and separation
+
+**Proclus (412-485 CE)**
+- **Categories:** Classical Philosopher
+- **Key Contribution:** Systematic development of Neoplatonic consciousness theory with detailed metaphysical hierarchy from the One to material world.
+- **Criteria Met:** Theoretical Innovation, Cross-Domain Thinking, Paradigm Expansion, Intellectual Courage, Synthetic Thinking
+- **Framework:** Systematic Neoplatonism with consciousness as mediating principle
+
+**Iamblichus (c. 245-325 CE)**
+- **Categories:** Classical Philosopher, Contemplative Practitioner
+- **Key Contribution:** Developed theurgy - practical techniques for consciousness ascent through ritual and divine contact.
+- **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
+- **Framework:** Theurgical philosophy - consciousness transformation through divine practices
+
+### Medieval Synthesis
+
+**Al-Ghazali (1058-1111)**
+- **Categories:** Bridge Builder, Contemplative Practitioner
+- **Key Contribution:** First systematic integration of rational philosophy with direct mystical experience in understanding consciousness, "The Niche of Lights."
+- **Criteria Met:** All 7 criteria - Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage, Synthetic Thinking
+- **Framework:** Islamic consciousness epistemology - stages from rational to intuitive to mystical knowing
+
+**Ibn Tufail (1105-1185)**
+- **Categories:** Classical Philosopher
+- **Key Contribution:** "Hayy ibn Yaqzan" - first systematic exploration of how consciousness develops naturally without social conditioning.
+- **Criteria Met:** Theoretical Innovation, Cross-Domain Thinking, Paradigm Expansion, Intellectual Courage, Synthetic Thinking
+- **Framework:** Natural consciousness development - innate spiritual intelligence
+
+**Mulla Sadra (1571-1636)**
+- **Categories:** Classical Philosopher
+- **Key Contribution:** Created first systematic existentialist philosophy with consciousness as graded existence undergoing substantial motion.
+- **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Paradigm Expansion, Intellectual Courage, Synthetic Thinking
+- **Framework:** Transcendent philosophy - consciousness as dynamic existence in motion
+
+**Nicholas of Cusa (1401-1464)**
+- **Categories:** Classical Philosopher, Bridge Builder
+- **Key Contribution:** Anticipated modern insights about consciousness limits with concepts of "learned ignorance" and "coincidence of opposites."
+- **Criteria Met:** Theoretical Innovation, Cross-Domain Thinking, Paradigm Expansion, Intellectual Courage, Synthetic Thinking
+- **Framework:** Mystical epistemology - consciousness transcending rational knowledge
+
+### Early Modern Period
+
+**Giordano Bruno (1548-1600)**
+- **Categories:** Classical Philosopher, Controversial Inquirer
+- **Key Contribution:** Proposed consciousness as distributed throughout infinite cosmos, died for beliefs anticipating modern panpsychist theories.
+- **Criteria Met:** All 7 criteria - Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage, Synthetic Thinking
+- **Framework:** Cosmic consciousness - infinite worlds with infinite consciousness
+
+**Franz Xaver von Baader (1765-1841)**
+- **Categories:** Classical Philosopher
+- **Key Contribution:** Developed Catholic mystical philosophy influenced by Böhme, bridged German idealism with mystical consciousness theory.
+- **Criteria Met:** Theoretical Innovation, Cross-Domain Thinking, Paradigm Expansion, Intellectual Courage, Synthetic Thinking
+- **Framework:** Speculative mysticism - consciousness as divine self-knowledge
 
 ### German Idealists
 
@@ -217,6 +373,36 @@ This comprehensive compilation identifies 101 pioneer figures who have contribut
 - **Criteria Met:** Theoretical Innovation, Direct Experience Integration, Cross-Domain Thinking, Paradigm Expansion, Synthetic Thinking
 - **Framework:** Panspiritism - consciousness as fundamental quality permeating reality
 
+**P.D. Ouspensky (1878-1947)**
+- **Categories:** Contemporary Philosopher, Bridge Builder
+- **Key Contribution:** Systematized Gurdjieff's teachings while contributing insights on higher-dimensional consciousness and objective consciousness.
+- **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Paradigm Expansion, Intellectual Courage, Synthetic Thinking
+- **Framework:** Objective consciousness - systematic development of higher-dimensional awareness
+
+**Simone Weil (1909-1943)**
+- **Categories:** Contemporary Philosopher, Contemplative Practitioner
+- **Key Contribution:** Integrated philosophical rigor with mystical consciousness experiences, developed concept of "attention" as spiritual practice.
+- **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
+- **Framework:** Mystical philosophy - attention as consciousness purification
+
+**Mogobe Ramose (1947-present)**
+- **Categories:** Contemporary Philosopher, Indigenous Wisdom Keeper
+- **Key Contribution:** Leading scholar articulating Ubuntu philosophy for academic audiences, consciousness as inherently relational ("I am because we are").
+- **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
+- **Framework:** Ubuntu consciousness - being as fundamentally interconnected
+
+**John Mbiti (1931-2019)**
+- **Categories:** Contemporary Philosopher, Bridge Builder
+- **Key Contribution:** Developed systematic African philosophy of consciousness emphasizing communal being and collective awareness.
+- **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
+- **Framework:** African philosophy - consciousness as community participation
+
+**Kwame Gyekye (1939-2019)**
+- **Categories:** Contemporary Philosopher
+- **Key Contribution:** Akan philosophy of consciousness and personhood, bridging African traditional thought with contemporary philosophical discourse.
+- **Criteria Met:** Theoretical Innovation, Cross-Domain Thinking, Paradigm Expansion, Intellectual Courage, Synthetic Thinking
+- **Framework:** Akan personhood - consciousness development through community wisdom
+
 ## 2. Consciousness Researchers
 
 ### Near-Death Experience Researchers
@@ -278,6 +464,12 @@ This comprehensive compilation identifies 101 pioneer figures who have contribut
 - **Key Contribution:** Pioneer in sacred geometry and BioGeometry, founder of Vesica Institute for Holistic Studies, bridging ancient wisdom with modern vibrational science.
 - **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
 - **Framework:** Vibrational consciousness through sacred geometry - consciousness structured by geometric patterns
+
+**Allan Kardec (1804-1869)**
+- **Categories:** Consciousness Researcher, Controversial Inquirer
+- **Key Contribution:** Systematized Spiritist doctrine with detailed consciousness survival theory and communication methods.
+- **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
+- **Framework:** Spiritist doctrine - consciousness evolution through incarnations and spirit communication
 
 ## 3. Physicist-Philosophers
 
@@ -359,6 +551,18 @@ This comprehensive compilation identifies 101 pioneer figures who have contribut
 - **Criteria Met:** Theoretical Innovation, Cross-Domain Thinking, Paradigm Expansion, Synthetic Thinking, Intellectual Courage
 - **Framework:** Hemispheric theory - different modes of attention create different realities
 
+**Karl Pribram (1919-2015)**
+- **Categories:** Physicist-Philosopher
+- **Key Contribution:** Holonomic brain theory proposing consciousness as holographic phenomenon, integrating neuroscience with quantum physics.
+- **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Paradigm Expansion, Intellectual Courage, Synthetic Thinking
+- **Framework:** Holographic consciousness - brain as hologram interfacing with holographic reality
+
+**Pierre Teilhard de Chardin (1881-1955)**
+- **Categories:** Physicist-Philosopher, Bridge Builder
+- **Key Contribution:** Noosphere concept showing evolution of consciousness as cosmic force, consciousness as fundamental aspect of reality from Big Bang onward.
+- **Criteria Met:** All 7 criteria - Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage, Synthetic Thinking
+- **Framework:** Evolutionary consciousness - cosmic evolution toward Omega Point of universal consciousness
+
 ## 4. Transpersonal and Depth Psychologists
 
 **Carl Jung (1875-1961)**
@@ -390,6 +594,12 @@ This comprehensive compilation identifies 101 pioneer figures who have contribut
 - **Key Contribution:** Authored "The Varieties of Religious Experience," establishing psychological study of mystical experiences.
 - **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Intellectual Courage
 - **Framework:** Radical empiricism - consciousness as primary reality
+
+**Sri Aurobindo (1872-1950)**
+- **Categories:** Transpersonal Psychologist, Contemplative Practitioner
+- **Key Contribution:** Integral Yoga pioneer developing consciousness evolution theory aiming at "supramental beings," bridged Eastern spirituality with evolutionary thought.
+- **Criteria Met:** All 7 criteria - Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage, Synthetic Thinking
+- **Framework:** Integral Yoga - systematic consciousness evolution through multiple levels to supramental realization
 
 ## 5. Contemplative Practitioners
 
@@ -455,6 +665,12 @@ This comprehensive compilation identifies 101 pioneer figures who have contribut
 - **Criteria Met:** Theoretical Innovation, Authentic Exploration, Direct Experience Integration, Paradigm Expansion, Intellectual Courage, Synthetic Thinking
 - **Framework:** Islamic mysticism centered on pure divine love
 
+**Al-Suhrawardi (1155-1191)**
+- **Categories:** Contemplative Practitioner, Bridge Builder
+- **Key Contribution:** Illuminationist philosophy with consciousness understood as degrees of light intensity, influenced both Eastern and Western thought.
+- **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
+- **Framework:** Light metaphysics - consciousness as gradations of divine light
+
 ### Christian Mystics
 
 **Meister Eckhart (c. 1260-1328)**
@@ -469,6 +685,54 @@ This comprehensive compilation identifies 101 pioneer figures who have contribut
 - **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
 - **Framework:** Christian mysticism with progressive stages of contemplative prayer
 
+**Hildegard of Bingen (1098-1179)**
+- **Categories:** Contemplative Practitioner, Artistic Visionary
+- **Key Contribution:** Systematic mystical theology integrating natural science with visionary consciousness experiences.
+- **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
+- **Framework:** Viriditas - consciousness as cosmic life force
+
+**Marguerite Porete (d. 1310)**
+- **Categories:** Contemplative Practitioner
+- **Key Contribution:** Seven-stage consciousness evolution theory involving complete ego dissolution, burned as heretic for advanced consciousness concepts.
+- **Criteria Met:** All 7 criteria - Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage, Synthetic Thinking
+- **Framework:** Mystical annihilation - progressive ego dissolution stages
+
+**Jakob Böhme (1575-1624)**
+- **Categories:** Contemplative Practitioner
+- **Key Contribution:** Christian mystical consciousness cosmology based on divine paradox and self-revelation, influenced German philosophy for centuries.
+- **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
+- **Framework:** Christian theosophy - consciousness as divine self-revelation through opposites
+
+**Thomas Traherne (1636-1674)**
+- **Categories:** Contemplative Practitioner
+- **Key Contribution:** English mystical poet who developed consciousness as infinite divine felicity accessible through purified perception.
+- **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Intellectual Courage
+- **Framework:** Mystical empiricism - consciousness transformation through purified sight
+
+**Julian of Norwich (c. 1342-1416)**
+- **Categories:** Contemplative Practitioner
+- **Key Contribution:** "Revelations of Divine Love" providing sophisticated theology of consciousness as divine love with detailed phenomenological descriptions.
+- **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
+- **Framework:** Mystical theology - consciousness as participation in divine love
+
+**Mechthild of Magdeburg (c. 1207-1282)**
+- **Categories:** Contemplative Practitioner
+- **Key Contribution:** "The Flowing Light of the Godhead" describing systematic consciousness transformation through divine love.
+- **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
+- **Framework:** Love mysticism - consciousness flowing between human and divine
+
+**Hadewijch (13th century)**
+- **Categories:** Contemplative Practitioner
+- **Key Contribution:** Flemish mystic developing sophisticated consciousness theology through courtly love metaphors and visionary experiences.
+- **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
+- **Framework:** Love mysticism - consciousness transformation through divine love
+
+**Gertrude the Great (1256-1302)**
+- **Categories:** Contemplative Practitioner
+- **Key Contribution:** Mystical theology emphasizing consciousness as divine heart, developed detailed phenomenology of mystical states.
+- **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
+- **Framework:** Heart mysticism - consciousness centered in divine heart
+
 ### Jewish Mystics
 
 **Isaac Luria (1534-1572)**
@@ -476,6 +740,12 @@ This comprehensive compilation identifies 101 pioneer figures who have contribut
 - **Key Contribution:** Developed Lurianic Kabbalah with concepts of tzimtzum and tikkun.
 - **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Synthetic Thinking
 - **Framework:** Lurianic Kabbalah emphasizing divine sparks and cosmic restoration
+
+**Abraham Abulafia (1240-1291)**
+- **Categories:** Contemplative Practitioner
+- **Key Contribution:** Developed sophisticated ecstatic Kabbalah techniques for inducing altered consciousness states through Hebrew letter combinations.
+- **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
+- **Framework:** Ecstatic Kabbalah - consciousness transformation through sacred linguistics
 
 ### Taoist Masters
 
@@ -491,6 +761,14 @@ This comprehensive compilation identifies 101 pioneer figures who have contribut
 - **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Synthetic Thinking
 - **Framework:** Taoist philosophy emphasizing spontaneous naturalness
 
+### Celtic Mystics
+
+**Taliesin (6th century)**
+- **Categories:** Contemplative Practitioner, Artistic Visionary
+- **Key Contribution:** Welsh bard whose poetry preserved Celtic consciousness concepts of multiple worlds and shape-shifting awareness.
+- **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
+- **Framework:** Celtic bardic consciousness - awareness as shape-shifting between worlds
+
 ### Tibetan Masters
 
 **Lady Tsogyal (8th century)**
@@ -498,6 +776,66 @@ This comprehensive compilation identifies 101 pioneer figures who have contribut
 - **Key Contribution:** Female Dzogchen master and consort of Padmasambhava, preserved and transmitted highest teachings.
 - **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
 - **Framework:** Dzogchen - recognition of primordial awareness
+
+**Ramakrishna Paramahamsa (1836-1886)**
+- **Categories:** Contemplative Practitioner
+- **Key Contribution:** Empirical exploration of multiple religious paths demonstrating their convergence in consciousness realization, essentially experimental phenomenology.
+- **Criteria Met:** All 7 criteria - Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage, Synthetic Thinking
+- **Framework:** Universal mysticism - consciousness realization through diverse spiritual practices
+
+**Nisargadatta Maharaj (1897-1981)**
+- **Categories:** Contemplative Practitioner
+- **Key Contribution:** Made crucial distinctions between awareness (primordial, unchanging) and consciousness (relational, temporal) providing precise phenomenological analysis.
+- **Criteria Met:** All 7 criteria - Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage, Synthetic Thinking
+- **Framework:** Advaita phenomenology - awareness as pure subjectivity beyond consciousness
+
+**J. Krishnamurti (1895-1986)**
+- **Categories:** Contemplative Practitioner
+- **Key Contribution:** Radical "techniqueless meditation" approach emphasizing consciousness revolution without systems, authorities, or prescribed methods.
+- **Criteria Met:** All 7 criteria - Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage, Synthetic Thinking
+- **Framework:** Choiceless awareness - consciousness transformation through direct perception without methodology
+
+**Abhinavagupta (975-1025)**
+- **Categories:** Contemplative Practitioner
+- **Key Contribution:** Kashmir Shaivism Recognition philosophy showing individual consciousness as identical with universal consciousness through aesthetic and philosophical integration.
+- **Criteria Met:** All 7 criteria - Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage, Synthetic Thinking
+- **Framework:** Recognition philosophy - consciousness recognizing its own divine nature
+
+**Nagarjuna (c. 150-250 CE)**
+- **Categories:** Contemplative Practitioner
+- **Key Contribution:** Madhyamaka emptiness doctrine providing sophisticated analysis of consciousness as empty of inherent existence yet functionally real.
+- **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
+- **Framework:** Middle Way philosophy - consciousness as dependently originated emptiness
+
+**Vasubandhu (4th century)**
+- **Categories:** Contemplative Practitioner
+- **Key Contribution:** Yogacara "consciousness-only" doctrine analyzing eight types of consciousness and their transformation.
+- **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
+- **Framework:** Consciousness-only philosophy - reality as consciousness transformation
+
+**Asanga (4th century)**
+- **Categories:** Contemplative Practitioner
+- **Key Contribution:** Founded Yogacara school with detailed analysis of consciousness streams and their purification.
+- **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
+- **Framework:** Yogacara psychology - consciousness purification through understanding eight consciousnesses
+
+**Longchenpa (1308-1364)**
+- **Categories:** Contemplative Practitioner
+- **Key Contribution:** Dzogchen master systematizing recognition of primordial awareness as natural consciousness state.
+- **Criteria Met:** All 7 criteria - Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage, Synthetic Thinking
+- **Framework:** Dzogchen - natural perfection of primordial awareness
+
+**Hakuin Ekaku (1686-1769)**
+- **Categories:** Contemplative Practitioner
+- **Key Contribution:** Revitalized Zen through koan practice and systematic consciousness cultivation, emphasized integration of enlightenment with daily life.
+- **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
+- **Framework:** Zen awakening - sudden realization integrated with gradual cultivation
+
+**Bankei Yōtaku (1622-1693)**
+- **Categories:** Contemplative Practitioner
+- **Key Contribution:** "Unborn Buddha Mind" teaching emphasizing natural consciousness awareness without special techniques.
+- **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
+- **Framework:** Unborn awareness - natural enlightened consciousness requiring no cultivation
 
 ### Contemporary Non-Dual Teachers
 
@@ -550,6 +888,54 @@ This comprehensive compilation identifies 101 pioneer figures who have contribut
 - **Key Contribution:** Lakota holy man whose vision teachings bridged Native American spirituality with wider world.
 - **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
 - **Framework:** Sacred pipe tradition and vision quest as paths to spiritual understanding
+
+**David Unaipon (1872-1967)**
+- **Categories:** Indigenous Wisdom Keeper, Bridge Builder
+- **Key Contribution:** First published Aboriginal author who articulated Dreamtime consciousness concepts for Western audiences while preserving traditional wisdom.
+- **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
+- **Framework:** Dreamtime consciousness - awareness connected to land and timeless ancestral presence
+
+**Noel Pearson (1965-present)**
+- **Categories:** Indigenous Wisdom Keeper, Bridge Builder
+- **Key Contribution:** Contemporary Aboriginal leader bridging traditional consciousness concepts with modern frameworks for indigenous rights and understanding.
+- **Criteria Met:** Theoretical Innovation, Cross-Domain Thinking, Paradigm Expansion, Intellectual Courage, Synthetic Thinking
+- **Framework:** Indigenous consciousness activism - traditional awareness informing contemporary social change
+
+**Mudrooroo (Colin Johnson) (1938-2019)**
+- **Categories:** Indigenous Wisdom Keeper, Artistic Visionary
+- **Key Contribution:** Articulated Aboriginal consciousness through literature and philosophy, bridging traditional and contemporary understanding.
+- **Criteria Met:** Theoretical Innovation, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
+- **Framework:** Aboriginal consciousness literature - traditional awareness through modern expression
+
+**Fools Crow (1890-1989)**
+- **Categories:** Indigenous Wisdom Keeper, Contemplative Practitioner
+- **Key Contribution:** Lakota holy man and vision quester who served as bridge between traditional and modern worlds.
+- **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
+- **Framework:** Lakota vision consciousness - awareness through sacred visions and ceremonies
+
+**Rolling Thunder (1916-1997)**
+- **Categories:** Indigenous Wisdom Keeper, Controversial Inquirer
+- **Key Contribution:** Cherokee medicine man who articulated Native consciousness concepts for broader audiences while maintaining traditional integrity.
+- **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
+- **Framework:** Cherokee medicine consciousness - healing through spiritual awareness
+
+**Sun Bear (1929-1992)**
+- **Categories:** Indigenous Wisdom Keeper, Bridge Builder
+- **Key Contribution:** Chippewa medicine man who created bridges between Native and non-Native consciousness understanding.
+- **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
+- **Framework:** Medicine wheel consciousness - awareness through natural cycles
+
+**Credo Mutwa (1921-2020)**
+- **Categories:** Indigenous Wisdom Keeper, Controversial Inquirer
+- **Key Contribution:** Zulu sangoma who preserved and shared African consciousness traditions including detailed cosmologies and healing practices.
+- **Criteria Met:** All 7 criteria - Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage, Synthetic Thinking
+- **Framework:** African shamanic consciousness - healing and wisdom through ancestral connection
+
+**Malidoma Patrice Somé (1956-2021)**
+- **Categories:** Indigenous Wisdom Keeper, Bridge Builder
+- **Key Contribution:** Dagara elder who bridged African shamanic consciousness concepts with Western psychology and spiritual seeking.
+- **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
+- **Framework:** Dagara consciousness - ritual and community as consciousness development
 
 ## 7. Artistic and Creative Visionaries
 
@@ -621,6 +1007,74 @@ This comprehensive compilation identifies 101 pioneer figures who have contribut
 - **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
 - **Framework:** Consciousness as cosmic vibration - universe as holographic vibrational system
 
+**Paracelsus (1493-1541)**
+- **Categories:** Maverick Scientist, Bridge Builder
+- **Key Contribution:** Pioneered concept of "astral body" as interface between consciousness and matter, consciousness-based healing.
+- **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
+- **Framework:** Hermetic medicine - consciousness operating through multiple bodies
+
+**Franz Anton Mesmer (1734-1815)**
+- **Categories:** Maverick Scientist
+- **Key Contribution:** Animal magnetism theory pioneering understanding of consciousness-based healing and altered states, influenced hypnosis and psychotherapy development.
+- **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
+- **Framework:** Magnetic consciousness - healing through manipulating consciousness energy fields
+
+**Ian Stevenson (1918-2007)**
+- **Categories:** Maverick Scientist
+- **Key Contribution:** University of Virginia researcher conducting most rigorous scientific investigation of reincarnation, documented over 3,000 cases with medical precision.
+- **Criteria Met:** All 7 criteria - Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage, Synthetic Thinking
+- **Framework:** Scientific reincarnation research - empirical evidence for consciousness surviving bodily death
+
+**Wilder Penfield (1891-1976)**
+- **Categories:** Maverick Scientist
+- **Key Contribution:** Through over 1,000 conscious brain surgeries, concluded that mind cannot be reduced to brain function based on direct observation.
+- **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
+- **Framework:** Neurological dualism - mind as distinct from but interacting with brain
+
+**Gustav Fechner (1801-1887)**
+- **Categories:** Maverick Scientist
+- **Key Contribution:** Founder of psychophysics who developed panpsychist worldview with systematic consciousness measurement methods.
+- **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
+- **Framework:** Psychophysical panpsychism - consciousness as measurable aspect of all reality
+
+**William Crookes (1832-1919)**
+- **Categories:** Maverick Scientist
+- **Key Contribution:** Distinguished chemist who conducted rigorous investigations of psychic phenomena, applying scientific methods to consciousness research.
+- **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
+- **Framework:** Scientific psychical research - rigorous investigation of consciousness phenomena
+
+**Oliver Lodge (1851-1940)**
+- **Categories:** Maverick Scientist
+- **Key Contribution:** Physicist who investigated consciousness survival after death through scientific methods while maintaining academic credibility.
+- **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
+- **Framework:** Scientific spiritualism - consciousness research through scientific methodology
+
+### Near-Death Experience Medical Researchers
+
+**Pim van Lommel (1943-present)**
+- **Categories:** Maverick Scientist, Consciousness Researcher
+- **Key Contribution:** Dutch cardiologist who conducted the most rigorous prospective study on near-death experiences, published in The Lancet (2001). His landmark research followed cardiac arrest patients and documented detailed NDEs during periods of measurably flat EEG (no brain activity), providing compelling empirical evidence that consciousness can exist independently of brain function.
+- **Criteria Met:** All 7 criteria - Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage, Synthetic Thinking
+- **Framework:** Non-local consciousness theory - consciousness as field phenomenon not produced by brain but interfacing with it. Brain as "receiver" rather than "generator" of consciousness
+
+**Michael Sabom (1946-present)**
+- **Categories:** Maverick Scientist, Consciousness Researcher
+- **Key Contribution:** American cardiologist and pioneer of scientific NDE research who conducted the first systematic medical studies comparing NDE accounts with actual medical procedures. His work demonstrated that NDErs could accurately describe their own resuscitation procedures while clinically unconscious, challenging materialist explanations.
+- **Criteria Met:** All 7 criteria - Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage, Synthetic Thinking
+- **Framework:** Empirical consciousness survival model - systematic documentation showing consciousness awareness during clinical unconsciousness
+
+**Peter Fenwick (1935-present)**
+- **Categories:** Maverick Scientist, Consciousness Researcher
+- **Key Contribution:** British neuropsychiatrist and leading authority on consciousness and the dying process. Conducted extensive research on NDEs, end-of-life experiences, and consciousness during cardiac arrest. His work bridges neuroscience with consciousness survival research while maintaining rigorous scientific standards.
+- **Criteria Met:** All 7 criteria - Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage, Synthetic Thinking
+- **Framework:** Neurobiological consciousness model - systematic study of consciousness phenomena that transcend current neuroscientific understanding
+
+**Jeffrey Long (1954-present)**
+- **Categories:** Maverick Scientist, Consciousness Researcher
+- **Key Contribution:** American radiation oncologist who founded the Near Death Experience Research Foundation (NDERF), creating the largest database of NDE accounts worldwide (over 5,000 cases). His systematic analysis of thousands of cases provides statistical evidence for consciousness survival and non-local awareness.
+- **Criteria Met:** All 7 criteria - Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage, Synthetic Thinking
+- **Framework:** Evidence-based consciousness survival model - large-scale statistical analysis showing consistent patterns across diverse NDE accounts
+
 ## 9. Experiential Explorers
 
 **Ram Dass (Richard Alpert) (1931-2019)**
@@ -664,6 +1118,18 @@ This comprehensive compilation identifies 101 pioneer figures who have contribut
 - **Key Contribution:** Pioneer of out-of-body experience research, founded The Monroe Institute, developed Hemi-Sync audio technology for consciousness exploration.
 - **Criteria Met:** All 7 criteria
 - **Framework:** Consciousness as non-physical explorer - systematic methods for out-of-body experiences and expanded states
+
+**George Gurdjieff (1866-1949)**
+- **Categories:** Experiential Explorer, Contemplative Practitioner
+- **Key Contribution:** Fourth Way system - most comprehensive practical system for consciousness development in modern era, integrating psychology, cosmology, and practice.
+- **Criteria Met:** All 7 criteria - Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage, Synthetic Thinking
+- **Framework:** Fourth Way - conscious evolution through work on attention, feeling, and being
+
+**Andrew Jackson Davis (1826-1910)**
+- **Categories:** Experiential Explorer, Controversial Inquirer
+- **Key Contribution:** "Poughkeepsie Seer" who developed detailed descriptions of consciousness surviving death and spiritual spheres.
+- **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
+- **Framework:** Spiritualist cosmology - consciousness progression through spiritual spheres
 
 ## 10. Bridge Builders
 
@@ -709,6 +1175,60 @@ This comprehensive compilation identifies 101 pioneer figures who have contribut
 - **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Synthetic Thinking
 - **Framework:** Awakening in everyday life - integrating non-dual realization with psychological healing
 
+**Emanuel Swedenborg (1688-1772)**
+- **Categories:** Bridge Builder, Experiential Explorer
+- **Key Contribution:** Correspondence theory showing systematic relationships between spiritual, natural, and divine worlds based on 27 years of claimed direct spiritual experiences.
+- **Criteria Met:** All 7 criteria - Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage, Synthetic Thinking
+- **Framework:** Spiritual empiricism - consciousness as bridge between spiritual and natural realms
+
+**Helena Blavatsky (1831-1891)**
+- **Categories:** Bridge Builder, Controversial Inquirer
+- **Key Contribution:** Most ambitious synthesis ever attempted, integrating Eastern and Western esoteric traditions into comprehensive evolutionary cosmology of consciousness.
+- **Criteria Met:** All 7 criteria - Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage, Synthetic Thinking
+- **Framework:** Theosophical synthesis - consciousness evolution through multiple planes and lifetimes
+
+**Swami Vivekananda (1863-1902)**
+- **Categories:** Bridge Builder
+- **Key Contribution:** Synthesized Vedanta with evolutionary thought, introduced consciousness "involution" concepts influencing Eastern and Western understanding.
+- **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
+- **Framework:** Neo-Vedanta - consciousness as evolving divine potential
+
+**Evelyn Underhill (1875-1941)**
+- **Categories:** Bridge Builder, Contemporary Philosopher
+- **Key Contribution:** Established academic study of mysticism, created frameworks for consciousness studies still used today.
+- **Criteria Met:** All 7 criteria - Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage, Synthetic Thinking
+- **Framework:** Academic mysticism - systematic study of consciousness transformation
+
+**Éliphas Lévi (1810-1875)**
+- **Categories:** Bridge Builder, Controversial Inquirer
+- **Key Contribution:** Synthesized Western esoteric traditions into systematic consciousness development practices.
+- **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
+- **Framework:** Western esotericism - consciousness transformation through magical practices
+
+**Anna Kingsford (1846-1888)**
+- **Categories:** Bridge Builder, Contemplative Practitioner
+- **Key Contribution:** Christian esotericism integrating mystical consciousness with women's spiritual authority.
+- **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
+- **Framework:** Esoteric Christianity - consciousness as divine feminine wisdom
+
+**Wande Abimbola (1932-present)**
+- **Categories:** Bridge Builder, Indigenous Wisdom Keeper
+- **Key Contribution:** Leading authority on Ifá philosophy and Yoruba consciousness concepts, systematic preservation and interpretation of traditional wisdom.
+- **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
+- **Framework:** Ifá consciousness - divination and wisdom as consciousness development
+
+**Bolaji Idowu (1913-1993)**
+- **Categories:** Bridge Builder, Indigenous Wisdom Keeper
+- **Key Contribution:** Yoruba theologian who systematized traditional consciousness concepts within contemporary religious discourse.
+- **Criteria Met:** Theoretical Innovation, Cross-Domain Thinking, Paradigm Expansion, Intellectual Courage, Synthetic Thinking
+- **Framework:** Yoruba theology - traditional consciousness within systematic religious thought
+
+**Serge Kahili King (1945-present)**
+- **Categories:** Bridge Builder, Indigenous Wisdom Keeper
+- **Key Contribution:** Authority on Hawaiian Huna consciousness concepts, systematic presentation of Polynesian consciousness practices.
+- **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
+- **Framework:** Huna consciousness - mana and spiritual energy as consciousness development
+
 ## 11. Controversial but Sincere Inquirers
 
 **Osho (Bhagwan Shree Rajneesh) (1931-1990)**
@@ -741,9 +1261,15 @@ This comprehensive compilation identifies 101 pioneer figures who have contribut
 - **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
 - **Framework:** Multidimensional consciousness - simultaneous existence across multiple realities
 
+**Valentinus (c. 100-160 CE)**
+- **Categories:** Controversial Inquirer, Contemplative Practitioner
+- **Key Contribution:** Sophisticated Gnostic three-level consciousness psychology (pneumatic, psychic, hylic) anticipating modern transpersonal models by nearly two millennia.
+- **Criteria Met:** Theoretical Innovation, Authentic Exploration, Cross-Domain Thinking, Direct Experience Integration, Paradigm Expansion, Intellectual Courage
+- **Framework:** Gnostic consciousness hierarchy - spiritual, psychic, and material levels of awareness
+
 ## Summary
 
-This comprehensive list represents 101 pioneers who have contributed to non-materialistic consciousness studies from diverse perspectives, spanning from ancient foundations like Plato's Theory of Forms to contemporary voices like Iain McGilchrist revolutionizing our understanding of consciousness through brain hemisphere research, microprocessor inventor Federico Faggin developing quantum information theories of consciousness, Ibn Arabi's Unity of Being doctrine that influenced centuries of mystical thought, contemporary teachers like Rupert Spira and Eckhart Tolle making non-dual awareness accessible to millions, visionary artists like Alex Grey mapping consciousness states, and bridge builders like Stephan Bodian integrating Eastern wisdom with Western psychology. Common themes include:
+This comprehensive list represents 177 pioneers who have contributed to non-materialistic consciousness studies from diverse perspectives, spanning from ancient foundations like Pythagoras and Plato's Theory of Forms to contemporary voices like Iain McGilchrist revolutionizing our understanding of consciousness through brain hemisphere research, microprocessor inventor Federico Faggin developing quantum information theories of consciousness, Ibn Arabi's Unity of Being doctrine that influenced centuries of mystical thought, contemporary teachers like Rupert Spira and Eckhart Tolle making non-dual awareness accessible to millions, visionary artists like Alex Grey mapping consciousness states, and bridge builders like Stephan Bodian integrating Eastern wisdom with Western psychology. Common themes include:
 
 1. **Rejection of Materialist Reductionism:** All figures challenge the view that consciousness emerges solely from brain activity
 2. **Integration of Direct Experience:** Personal exploration and first-person methodologies are valued alongside theoretical work
@@ -754,6 +1280,4 @@ This comprehensive list represents 101 pioneers who have contributed to non-mate
 
 These pioneers collectively established foundations for contemporary consciousness studies, providing diverse approaches to understanding consciousness as a fundamental rather than emergent property of reality. Their work continues to influence neuroscience, psychology, physics, philosophy, and contemplative practices worldwide.
 
-The most recent additions (July 2025) include significant figures like Iain McGilchrist whose hemisphere theory revolutionizes consciousness understanding, Federico Faggin bridging technology with quantum consciousness, historical masters like Ibn Arabi and Dogen Zenji whose influence spans centuries, contemporary non-dual teachers like Rupert Spira and Francis Lucille, indigenous wisdom keepers María Sabina and Black Elk, and experiential pioneers like Jill Bolte Taylor and Anita Moorjani whose documented experiences provide unique insights into consciousness beyond ordinary states.
-
-Additional notable inclusions are Thich Nhat Hanh who brought Engaged Buddhism and practical mindfulness to millions in the West, Robert Monroe whose systematic exploration of out-of-body experiences founded an entire institute dedicated to consciousness research, and Robert J. Gilbert who bridges sacred geometry with modern vibrational science.
+The expanded list now includes 76 additional pioneers spanning from ancient Greek philosophers like Pythagoras and Heraclitus to medieval synthesizers like Al-Ghazali and Hildegard of Bingen, from early modern visionaries like Giordano Bruno (who died for his infinite consciousness beliefs) to 19th century pioneers like Helena Blavatsky and George Gurdjieff. Eastern masters including Sri Aurobindo, Nisargadatta Maharaj, and multiple Buddhist philosophers (Nagarjuna, Vasubandhu, Longchenpa) are now represented. Scientific researchers like Ian Stevenson (reincarnation studies) and Wilder Penfield (neurological dualism) join women mystics across centuries (Julian of Norwich, Marguerite Porete, Evelyn Underhill, Simone Weil). Indigenous wisdom keepers from multiple continents are included: African philosophers (Mogobe Ramose, John Mbiti), Aboriginal pioneers (David Unaipon), Native American medicine people (Fools Crow, Rolling Thunder), and African shamans (Credo Mutwa, Malidoma Somé). Critically important are the Near-Death Experience medical researchers (Pim van Lommel, Michael Sabom, Peter Fenwick, Jeffrey Long) whose rigorous clinical studies provide empirical evidence for consciousness existing independently of brain function. This creates one of the most comprehensive collections of non-materialistic consciousness theorists ever assembled, with improved representation across cultures, genders, time periods, and approaches.
