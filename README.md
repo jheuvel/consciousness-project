@@ -6,7 +6,7 @@ This repository contains comprehensive research into non-materialistic theories 
 
 ## Project Overview
 
-This project adopts an open-minded approach to consciousness studies, investigating theories and perspectives that go beyond purely materialistic explanations. We examine the work of 20-50 researchers, philosophers, and pioneers who have proposed alternative frameworks for understanding consciousness, reality, and human experience.
+This project adopts an open-minded approach to consciousness studies, investigating theories and perspectives that go beyond purely materialistic explanations. We examine the work of 50-200 researchers, philosophers, and pioneers who have proposed alternative frameworks for understanding consciousness, reality, and human experience.
 
 ### Key Features
 
@@ -41,7 +41,7 @@ consciousness-project/
 ## Project Phases
 
 ### Phase 1: Research Foundation
-- Identifying 20-50 key figures in non-materialistic consciousness research
+- Identifying key figures in non-materialistic consciousness research
 - Building comprehensive source inventory
 - Applying open-minded selection criteria
 - Establishing research parameters
