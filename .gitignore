@@ -1,0 +1,111 @@
+# Consciousness Research Project .gitignore
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Editor/IDE Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.project
+.settings/
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+*.backup
+*.log
+.~*
+
+# Research Work Files
+drafts/
+working/
+personal-notes/
+*.draft
+*.working
+
+# Private/Sensitive Files
+private/
+confidential/
+personal/
+*.private
+*.confidential
+
+# Large Media Files (if not needed in repo)
+*.mp4
+*.avi
+*.mov
+*.mp3
+*.wav
+large-media/
+
+# Archive Files
+*.zip
+*.tar
+*.gz
+*.rar
+archives/
+
+# Python (if using any Python scripts)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+
+# Node/npm (if using any JavaScript tools)
+node_modules/
+npm-debug.log*
+package-lock.json
+
+# Output/Generated Files
+output/
+generated/
+exports/
+*.generated
+
+# Backup Files
+backups/
+*.backup
+backup-*/
+
+# macOS Specific
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# Windows Specific
+desktop.ini
+$RECYCLE.BIN/
+
+# Linux Specific
+.directory
+.Trash-*
+
+# Research Specific Ignores
+raw-data/
+unprocessed/
+scratch/
+test-files/
+*.test
+
+# Keep .gitkeep files
+!.gitkeep
+
+# Local configuration
+local-config/
+*.local
+
+# Temporary research files
+research-temp/
+quick-notes/
+brainstorm/
