@@ -19,7 +19,7 @@
 ## Phase 1: Identification of Influential Figures
 
 ### Target Scale
-- **Primary Goal:** 20-50 figures for comprehensive coverage
+- **Primary Goal:** 50-200 figures for comprehensive coverage
 - **Profile Flexibility:** Shorter initial profiles with option to expand for key figures
 - **Depth Strategy:** Core profiles for essential figures, briefer entries for supporting voices
 
@@ -218,7 +218,7 @@ While maintaining an open-minded approach, each profile should include:
 ### Final Deliverables
 
 #### Individual Profiles Document
-- **Comprehensive profile collection** (20-50 figures)
+- **Comprehensive profile collection** (50-200 figures)
 - **Standardized format** following the profile structure
 - **Cross-referencing system** linking related ideas between figures
 - **Expandable structure** allowing for future additions

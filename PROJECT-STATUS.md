@@ -35,10 +35,10 @@
 
 | Metric | Target | Current |
 |--------|--------|---------|
-| Figures Identified | 20-50 | 101 (In Progress) |
-| Figures Selected | 20-50 | TBD |
+| Figures Identified | 50-200 | 101 (In Progress) |
+| Figures Selected | 50-200 | TBD |
 | Primary Sources | 60-150 | 0 |
-| Profiles Complete | 20-50 | 0 |
+| Profiles Complete | 50-200 | 0 |
 
 ---
 

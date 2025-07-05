@@ -98,7 +98,7 @@ Example Structure:
 ## Milestone Achievements
 
 ### Phase 1 Milestones
-- [ ] Initial figure identification (20-50 candidates)
+- [ ] Initial figure identification (50-200 candidates)
 - [ ] Source inventory established
 - [ ] Research methodology refined
 - [ ] Selection criteria applied

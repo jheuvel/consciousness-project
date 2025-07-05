@@ -2,7 +2,7 @@
 
 ## Selection Status
 
-**Target Range:** 20-50 figures  
+**Target Range:** 50-200 figures  
 **Total Identified:** [To be filled]  
 **Selected for Profiles:** [To be filled]  
 **Selection Date:** [To be filled]
