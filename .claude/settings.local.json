@@ -4,7 +4,12 @@
       "Bash(mkdir:*)",
       "Bash(touch:*)",
       "Bash(git config:*)",
-      "Bash(rg:*)"
+      "Bash(rg:*)",
+      "Bash(grep:*)",
+      "Bash(cp:*)",
+      "Bash(awk:*)",
+      "Bash(sed:*)",
+      "Bash(python3:*)"
     ],
     "deny": []
   }

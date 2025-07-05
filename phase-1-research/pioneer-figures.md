@@ -4,256 +4,256 @@ This comprehensive compilation identifies 177 pioneer figures who have contribut
 
 ## Pioneer Figures Summary Table (Chronologically Sorted)
 
-| Name | Dates | Primary Category | Key Contribution | Criteria Met | Theoretical Framework |
-|------|-------|------------------|------------------|--------------|----------------------|
-| **Laozi** | 6th century BCE | Contemplative Practitioner | Tao as ultimate reality | 6/7 | Harmony with natural consciousness |
-| **Pythagoras** | c. 570-490 BCE | Classical Philosopher | Mathematical harmony and reincarnation theory | 7/7 | Soul as divine spark requiring harmonic purification |
-| **Heraclitus** | c. 535-475 BCE | Classical Philosopher | Logos doctrine - individual consciousness as cosmic fragment | 6/7 | Consciousness as participation in universal reason |
-| **Parmenides** | c. 515-450 BCE | Classical Philosopher | Distinguished nous from sensory awareness | 5/7 | Consciousness as gateway to unchanging reality |
-| **Empedocles** | c. 494-434 BCE | Classical Philosopher | Four-element theory with Love and Strife | 6/7 | Cosmic consciousness cycles through attraction/separation |
-| **Plato** | c. 428-348 BCE | Classical Philosopher | Theory of Forms - eternal ideas underlying reality | 7/7 | Platonic idealism - consciousness accesses eternal Forms |
-| **Zhuangzi** | 369-286 BCE | Contemplative Practitioner | Consciousness transformation through paradox | 6/7 | Spontaneous naturalness |
-| **Patanjali** | c. 2nd BCE-2nd CE | Contemplative Practitioner | Yoga Sutras - consciousness transformation | 6/7 | Eight-limbed path to samadhi |
-| **Valentinus** | c. 100-160 CE | Controversial Inquirer | Gnostic three-level consciousness psychology | 6/7 | Spiritual, psychic, and material levels of awareness |
-| **Nagarjuna** | c. 150-250 CE | Contemplative Practitioner | Madhyamaka emptiness doctrine | 6/7 | Consciousness as dependently originated emptiness |
-| **Plotinus** | c. 204-270 CE | Classical Philosopher | Founded Neoplatonism with emanation theory | 6/7 | Consciousness as multiple layers from unity to multiplicity |
-| **Iamblichus** | c. 245-325 CE | Classical Philosopher | Developed theurgy for consciousness ascent | 6/7 | Consciousness transformation through divine practices |
-| **Vasubandhu** | 4th century | Contemplative Practitioner | Yogacara consciousness-only doctrine | 6/7 | Reality as consciousness transformation |
-| **Asanga** | 4th century | Contemplative Practitioner | Eight types of consciousness analysis | 6/7 | Consciousness purification through understanding |
-| **Proclus** | 412-485 CE | Classical Philosopher | Systematic Neoplatonic consciousness hierarchy | 5/7 | Consciousness as mediating principle |
-| **Taliesin** | 6th century | Contemplative Practitioner | Celtic consciousness shape-shifting | 6/7 | Awareness as shape-shifting between worlds |
-| **Rabia al-Adawiyya** | c. 714-801 | Contemplative Practitioner | Pioneer of divine love mysticism | 6/7 | Pure divine love mysticism |
-| **Lady Tsogyal** | 8th century | Contemplative Practitioner | Female Dzogchen master | 6/7 | Dzogchen non-dual awareness |
-| **Abhinavagupta** | 975-1025 | Contemplative Practitioner | Kashmir Shaivism Recognition philosophy | 7/7 | Consciousness recognizing its own divine nature |
-| **Al-Ghazali** | 1058-1111 | Bridge Builder | Integrated philosophy with mystical experience | 7/7 | Stages from rational to intuitive to mystical knowing |
-| **Hildegard of Bingen** | 1098-1179 | Contemplative Practitioner | Viriditas - cosmic life force consciousness | 6/7 | Consciousness as cosmic life force |
-| **Ibn Tufail** | 1105-1185 | Classical Philosopher | Natural consciousness development theory | 5/7 | Innate spiritual intelligence |
-| **Al-Suhrawardi** | 1155-1191 | Contemplative Practitioner | Illuminationist philosophy - consciousness as light | 6/7 | Consciousness as gradations of divine light |
-| **Ibn Arabi** | 1165-1240 | Contemplative Practitioner | Unity of Being doctrine | 6/7 | Wahdat al-wujud (Unity of Existence) |
-| **Dogen Zenji** | 1200-1253 | Contemplative Practitioner | Soto Zen founder, non-dual philosophy | 6/7 | Practice-enlightenment unity |
-| **Jalal al-Din Rumi** | 1207-1273 | Contemplative Practitioner | Mystical consciousness through poetry | 6/7 | Islamic mysticism of divine love |
-| **Mechthild of Magdeburg** | c. 1207-1282 | Contemplative Practitioner | Flowing Light mystical psychology | 6/7 | Consciousness flowing between human and divine |
-| **Abraham Abulafia** | 1240-1291 | Contemplative Practitioner | Ecstatic Kabbalah through Hebrew letters | 6/7 | Consciousness transformation through sacred linguistics |
-| **Hadewijch** | 13th century | Contemplative Practitioner | Love mysticism through courtly metaphors | 6/7 | Consciousness transformation through divine love |
-| **Gertrude the Great** | 1256-1302 | Contemplative Practitioner | Heart mysticism phenomenology | 6/7 | Consciousness centered in divine heart |
-| **Meister Eckhart** | c. 1260-1328 | Contemplative Practitioner | Mystical theology of divine birth | 6/7 | Apophatic mysticism |
-| **Marguerite Porete** | d. 1310 | Contemplative Practitioner | Seven-stage consciousness evolution theory | 7/7 | Progressive ego dissolution stages |
-| **Longchenpa** | 1308-1364 | Contemplative Practitioner | Dzogchen natural perfection teachings | 7/7 | Natural perfection of primordial awareness |
-| **Julian of Norwich** | c. 1342-1416 | Contemplative Practitioner | Divine love mystical theology | 6/7 | Consciousness as participation in divine love |
-| **Nicholas of Cusa** | 1401-1464 | Classical Philosopher | Learned ignorance and coincidence of opposites | 5/7 | Consciousness transcending rational knowledge |
-| **Paracelsus** | 1493-1541 | Maverick Scientist | Astral body as consciousness-matter interface | 6/7 | Consciousness operating through multiple bodies |
-| **Teresa of Avila** | 1515-1582 | Contemplative Practitioner | Mapped mystical consciousness stages | 6/7 | Progressive contemplative prayer |
-| **Isaac Luria** | 1534-1572 | Contemplative Practitioner | Lurianic Kabbalah - cosmic restoration | 6/7 | Divine sparks and tikkun |
-| **Giordano Bruno** | 1548-1600 | Classical Philosopher | Infinite cosmos with distributed consciousness | 7/7 | Infinite worlds with infinite consciousness |
-| **Mulla Sadra** | 1571-1636 | Classical Philosopher | Existentialist philosophy with substantial motion | 6/7 | Consciousness as dynamic existence in motion |
-| **Jakob Böhme** | 1575-1624 | Contemplative Practitioner | Christian mystical consciousness cosmology | 6/7 | Consciousness as divine self-revelation through opposites |
-| **Bankei Yōtaku** | 1622-1693 | Contemplative Practitioner | Unborn Buddha Mind teaching | 6/7 | Natural enlightened consciousness |
-| **Thomas Traherne** | 1636-1674 | Contemplative Practitioner | Consciousness as infinite divine felicity | 5/7 | Consciousness transformation through purified sight |
-| **Hakuin Ekaku** | 1686-1769 | Contemplative Practitioner | Zen koan practice and cultivation | 6/7 | Sudden realization with gradual cultivation |
-| **Emanuel Swedenborg** | 1688-1772 | Bridge Builder | Correspondence theory between spiritual/natural | 7/7 | Consciousness as bridge between spiritual and natural |
-| **Immanuel Kant** | 1724-1804 | Classical Philosopher | Transcendental idealism - mind constructs experience | 4/7 | Consciousness provides structural conditions for experience |
-| **Franz Anton Mesmer** | 1734-1815 | Maverick Scientist | Animal magnetism theory | 6/7 | Healing through manipulating consciousness energy fields |
-| **William Blake** | 1757-1827 | Artistic Visionary | Mystical consciousness through art | 7/7 | Imagination as divine faculty |
-| **Franz Xaver von Baader** | 1765-1841 | Classical Philosopher | Catholic mystical philosophy | 5/7 | Consciousness as divine self-knowledge |
-| **G.W.F. Hegel** | 1770-1831 | Classical Philosopher | Absolute idealism - reality as self-developing spirit | 4/7 | Reality as dialectical unfolding of absolute spirit |
-| **Arthur Schopenhauer** | 1788-1860 | Classical Philosopher | Will as fundamental reality underlying phenomena | 4/7 | Will-based idealism |
-| **Gustav Fechner** | 1801-1887 | Maverick Scientist | Psychophysical panpsychism | 6/7 | Consciousness as measurable aspect of all reality |
-| **Allan Kardec** | 1804-1869 | Consciousness Researcher | Systematized Spiritist doctrine | 6/7 | Consciousness evolution through incarnations |
-| **Éliphas Lévi** | 1810-1875 | Bridge Builder | Synthesized Western esoteric traditions | 6/7 | Consciousness transformation through magical practices |
-| **Andrew Jackson Davis** | 1826-1910 | Experiential Explorer | Spiritualist cosmology of consciousness survival | 6/7 | Consciousness progression through spiritual spheres |
-| **Helena Blavatsky** | 1831-1891 | Bridge Builder | Theosophical synthesis of East-West traditions | 7/7 | Consciousness evolution through multiple planes |
-| **William Crookes** | 1832-1919 | Maverick Scientist | Scientific investigation of psychic phenomena | 6/7 | Rigorous investigation of consciousness phenomena |
-| **Ramakrishna Paramahamsa** | 1836-1886 | Contemplative Practitioner | Empirical exploration of multiple paths | 7/7 | Universal mysticism through diverse practices |
-| **William James** | 1842-1910 | Psychology Pioneer | "Varieties of Religious Experience" | 5/7 | Radical empiricism |
-| **Anna Kingsford** | 1846-1888 | Bridge Builder | Christian esotericism with divine feminine | 6/7 | Consciousness as divine feminine wisdom |
-| **Oliver Lodge** | 1851-1940 | Maverick Scientist | Physicist investigating consciousness survival | 6/7 | Consciousness research through scientific methodology |
-| **Henri Bergson** | 1859-1941 | Process Philosopher | Creative evolution - consciousness as creative force | 4/7 | Creative evolution through temporal becoming |
-| **Edmund Husserl** | 1859-1938 | Phenomenologist | Founded phenomenology - systematic study of consciousness | 4/7 | Transcendental phenomenology |
-| **Rudolf Steiner** | 1861-1925 | Bridge Builder | Anthroposophy - "spiritual science" methodology | 7/7 | Multi-dimensional reality with trained perception |
-| **Alfred North Whitehead** | 1861-1947 | Process Philosopher | Process philosophy - reality as experiential events | 4/7 | All entities have mental aspects |
-| **Hilma af Klint** | 1862-1944 | Artistic Visionary | Abstract art through mediumistic practices | 6/7 | Theosophical spiritual communication |
-| **Black Elk** | 1863-1950 | Indigenous Wisdom | Lakota holy man with vision teachings | 6/7 | Sacred pipe and vision quest traditions |
-| **Swami Vivekananda** | 1863-1902 | Bridge Builder | Neo-Vedanta with evolutionary thought | 6/7 | Consciousness as evolving divine potential |
-| **Wassily Kandinsky** | 1866-1944 | Artistic Visionary | Spiritual dimension of color and form | 6/7 | Spiritual abstraction in art |
-| **George Gurdjieff** | 1866-1949 | Experiential Explorer | Fourth Way system for consciousness development | 7/7 | Conscious evolution through work on attention |
-| **D.T. Suzuki** | 1870-1966 | Bridge Builder | Introduced Eastern philosophy to West | 6/7 | Non-dual consciousness |
-| **David Unaipon** | 1872-1967 | Indigenous Wisdom Keeper | Dreamtime consciousness concepts | 6/7 | Awareness connected to land and ancestors |
-| **Sri Aurobindo** | 1872-1950 | Transpersonal Psychologist | Integral Yoga for supramental beings | 7/7 | Consciousness evolution to supramental realization |
-| **Richard Wilhelm** | 1873-1930 | Bridge Builder | Translated Chinese philosophical texts | 6/7 | Tao as fundamental principle |
-| **Carl Jung** | 1875-1961 | Depth Psychologist | Analytical psychology, collective unconscious | 6/7 | Psyche with personal and collective layers |
-| **Evelyn Underhill** | 1875-1941 | Bridge Builder | Academic mysticism frameworks | 7/7 | Systematic study of consciousness transformation |
-| **P.D. Ouspensky** | 1878-1947 | Contemporary Philosopher | Systematized Fourth Way teachings | 6/7 | Objective consciousness through higher dimensions |
-| **Ramana Maharshi** | 1879-1950 | Contemplative Practitioner | Self-inquiry method ("Who am I?") | 6/7 | Advaita Vedanta self-investigation |
-| **Pierre Teilhard de Chardin** | 1881-1955 | Physicist-Philosopher | Noosphere and Omega Point theory | 7/7 | Cosmic evolution toward universal consciousness |
-| **Roberto Assagioli** | 1888-1974 | Transpersonal Psychology | Psychosynthesis - holistic psychology | 6/7 | Progressive integration around Higher Self |
-| **Martin Heidegger** | 1889-1976 | Phenomenologist | Existential analytics of temporal consciousness | 4/7 | Fundamental ontology of Being |
-| **Fools Crow** | 1890-1989 | Indigenous Wisdom Keeper | Lakota vision quest traditions | 6/7 | Awareness through sacred visions and ceremonies |
-| **Wilder Penfield** | 1891-1976 | Maverick Scientist | Neurological dualism from brain surgery | 6/7 | Mind as distinct from but interacting with brain |
-| **María Sabina** | 1894-1985 | Indigenous Wisdom | Mazatec mushroom ceremony keeper | 6/7 | Sacred mushroom consciousness |
-| **Aldous Huxley** | 1894-1963 | Artistic Visionary | Literature and psychedelic consciousness | 6/7 | "Mind-at-Large" theory |
-| **J. Krishnamurti** | 1895-1986 | Contemplative Practitioner | Techniqueless meditation and choiceless awareness | 7/7 | Consciousness transformation through direct perception |
-| **J.B. Rhine** | 1895-1980 | Maverick Scientist | "Father of parapsychology" | 6/7 | Scientific methodology for psi |
-| **Wilhelm Reich** | 1897-1957 | Controversial Inquirer | Orgone energy theory, body-oriented therapy | 6/7 | Consciousness as biological energy |
-| **Nisargadatta Maharaj** | 1897-1981 | Contemplative Practitioner | Distinction between awareness and consciousness | 7/7 | Awareness as pure subjectivity beyond consciousness |
-| **Albert Hofmann** | 1906-2008 | Psychedelic Researcher | Discoverer of LSD, consciousness research | 6/7 | Psychedelics as medicines for the soul |
-| **Abraham Maslow** | 1908-1970 | Transpersonal Psychology | Hierarchy of needs, peak experiences | 6/7 | Humanistic-transpersonal psychology |
-| **Maurice Merleau-Ponty** | 1908-1961 | Phenomenologist | Embodied phenomenology - primacy of perception | 4/7 | Consciousness as fundamentally embodied |
-| **Simone Weil** | 1909-1943 | Contemporary Philosopher | Attention as spiritual practice | 6/7 | Attention as consciousness purification |
-| **Bolaji Idowu** | 1913-1993 | Bridge Builder | Yoruba consciousness theology | 5/7 | Traditional consciousness within religious thought |
-| **John C. Lilly** | 1915-2001 | Experiential Explorer | Isolation tank, consciousness research | 7/7 | Human biocomputer model |
-| **Alan Watts** | 1915-1973 | Bridge Builder | Eastern wisdom for Western counterculture | 6/7 | Integration of East-West psychology |
-| **Robert Monroe** | 1915-1995 | Experiential Explorer | Out-of-body experience pioneer, Hemi-Sync | 7/7 | Consciousness as non-physical explorer |
-| **Rolling Thunder** | 1916-1997 | Indigenous Wisdom Keeper | Cherokee medicine consciousness | 6/7 | Healing through spiritual awareness |
-| **David Bohm** | 1917-1992 | Physicist-Philosopher | Implicate order theory | 4/7 | Consciousness and matter from deeper order |
-| **Ian Stevenson** | 1918-2007 | Maverick Scientist | Scientific reincarnation research | 7/7 | Empirical evidence for consciousness survival |
-| **Karl Pribram** | 1919-2015 | Physicist-Philosopher | Holonomic brain theory | 6/7 | Brain as hologram interfacing with holographic reality |
-| **Credo Mutwa** | 1921-2020 | Indigenous Wisdom Keeper | Zulu shamanic consciousness | 7/7 | Healing and wisdom through ancestral connection |
-| **Itzhak Bentov** | 1923-1979 | Maverick Scientist | Vibrational consciousness model | 6/7 | Consciousness as cosmic vibration |
-| **Carlos Castaneda** | 1925-1998 | Controversial Inquirer | Don Juan series on shamanic knowledge | 6/7 | Separate reality through perception shifts |
-| **Thich Nhat Hanh** | 1926-2022 | Contemplative Practitioner | Engaged Buddhism, mindfulness in West | 7/7 | Interbeing - interconnected consciousness |
-| **Henry Stapp** | 1928-present | Physicist-Philosopher | Quantum interactive dualism | 4/7 | Consciousness causes quantum collapse |
-| **Jane Roberts** | 1929-1984 | Controversial Inquirer | Seth material channel | 6/7 | Multidimensional consciousness |
-| **Sun Bear** | 1929-1992 | Indigenous Wisdom Keeper | Medicine wheel consciousness | 6/7 | Awareness through natural cycles |
-| **Robert Jahn** | 1930-2017 | Maverick Scientist | PEAR laboratory consciousness-matter studies | 6/7 | Consciousness role in physical reality |
-| **Edgar Mitchell** | 1930-2016 | Maverick Scientist | Founded IONS after space mystical experience | 6/7 | Consciousness as fundamental |
-| **Stanislav Grof** | 1931-present | Transpersonal Psychology | Transpersonal psychology pioneer, holotropic breathwork | 7/7 | Cartography of consciousness model |
-| **Ram Dass** | 1931-2019 | Experiential Explorer | Psychedelic research, Eastern-Western integration | 7/7 | Spiritual psychology |
-| **Osho (Rajneesh)** | 1931-1990 | Controversial Inquirer | Eastern mysticism with Western psychology | 6/7 | Synthesis of meditation, therapy, and celebration |
-| **Roger Penrose** | 1931-present | Physicist-Philosopher | Orchestrated Objective Reduction (Orch-OR) theory | 4/7 | Quantum consciousness |
-| **John Mbiti** | 1931-2019 | Contemporary Philosopher | African communal consciousness philosophy | 6/7 | Consciousness as community participation |
-| **Ervin Laszlo** | 1932-present | Systems Theorist | Integral theory, consciousness field theory | 4/7 | Consciousness as fundamental field |
-| **Timothy Sprigge** | 1932-2007 | Contemporary Philosopher | Defended absolute idealism | 4/7 | Reality as unified conscious experience |
-| **Wande Abimbola** | 1932-present | Bridge Builder | Ifá philosophy and consciousness | 6/7 | Divination and wisdom as consciousness development |
-| **Kenneth Ring** | 1935-present | NDE Researcher | Co-founded IANDS, scientific NDE protocols | 6/7 | Scientific approach to NDE research |
-| **Peter Fenwick** | 1935-present | Maverick Scientist | Neuropsychiatrist studying dying process | 7/7 | Neurobiological consciousness transcendence |
-| **Amit Goswami** | 1936-present | Physicist-Philosopher | Quantum consciousness theory | 4/7 | Consciousness as ground of being |
-| **Pema Chödrön** | 1936-present | Contemplative Practitioner | Tibetan Buddhist teachings for West | 6/7 | Buddhist psychology of difficult emotions |
-| **Ralph Metzner** | 1936-2019 | Experiential Explorer | "The Psychedelic Experience," shamanic psychology | 6/7 | Multidimensional consciousness |
-| **Charles Tart** | 1937-2025 | Altered States Researcher | Transpersonal psychology founder, "consensus trance" | 6/7 | State-specific sciences |
-| **Thomas Nagel** | 1937-present | Contemporary Philosopher | "What Is It Like to Be a Bat?" - anti-reductionist | 4/7 | Anti-reductive naturalism |
-| **Mudrooroo** | 1938-2019 | Indigenous Wisdom Keeper | Aboriginal consciousness through literature | 5/7 | Traditional awareness through modern expression |
-| **Fritjof Capra** | 1939-present | Systems Theorist | Systems view integrating quantum physics | 4/7 | Consciousness as emergent property of living systems |
-| **James Fadiman** | 1939-present | Experiential Explorer | Psychedelic research, microdosing protocols | 6/7 | Transpersonal psychology |
-| **Kwame Gyekye** | 1939-2019 | Contemporary Philosopher | Akan philosophy of personhood | 5/7 | Consciousness development through community wisdom |
-| **Federico Faggin** | 1941-present | Physicist-Philosopher | Quantum Information Panpsychism | 5/7 | Consciousness as quantum information |
-| **Christina Grof** | 1941-2014 | Experiential Explorer | Co-developed Holotropic Breathwork | 6/7 | Consciousness as self-healing |
-| **Rupert Sheldrake** | 1942-present | Maverick Scientist | Morphic resonance theory | 6/7 | Collective memory through fields |
-| **Pim van Lommel** | 1943-present | Maverick Scientist | Lancet NDE study with flat EEG evidence | 7/7 | Non-local consciousness - brain as receiver |
-| **Raymond Moody** | 1944-present | NDE Researcher | Coined "near-death experience," pioneered NDE studies | 6/7 | Systematic methodology for consciousness during death |
-| **Francis Lucille** | 1944-present | Contemporary Teacher | Physicist turned Advaita teacher | 6/7 | Consciousness as shared being |
-| **Serge Kahili King** | 1945-present | Bridge Builder | Hawaiian Huna consciousness | 6/7 | Mana and spiritual energy as consciousness development |
-| **Terence McKenna** | 1946-2000 | Controversial Inquirer | Plant medicine consciousness exploration | 6/7 | Psychedelics as evolutionary tools |
-| **Matthieu Ricard** | 1946-present | Contemplative Practitioner | Buddhist meditation with neuroscience | 7/7 | Tibetan Buddhist meditation methodology |
-| **Michael Sabom** | 1946-present | Maverick Scientist | First systematic medical NDE studies | 7/7 | Empirical consciousness survival model |
-| **Stuart Hameroff** | 1947-present | Physicist-Philosopher | Co-developed Orch-OR theory | 4/7 | Quantum consciousness in microtubules |
-| **Mogobe Ramose** | 1947-present | Contemporary Philosopher | Ubuntu philosophy - relational consciousness | 6/7 | Being as fundamentally interconnected |
-| **Eckhart Tolle** | 1948-present | Bridge Builder | "Power of Now" - present moment awareness | 6/7 | Non-dual awareness behind mental activity |
-| **Stephan Bodian** | 1948-present | Bridge Builder | East-West psychology integration | 6/7 | Awakening in everyday life |
-| **Ken Wilber** | 1949-present | Integral Theorist | Comprehensive integral theory | 6/7 | Consciousness evolution through stages |
-| **Michael Tye** | 1950-present | Contemporary Philosopher | Converted to panprotopsychism | 4/7 | Phenomenal concept strategy |
-| **Robert Gilbert** | 1950-2025 | Consciousness Researcher | Sacred geometry and BioGeometry research | 6/7 | Vibrational consciousness through sacred geometry |
-| **Richard Davidson** | 1951-present | Contemplative Neuroscience | Founder of contemplative neuroscience | 6/7 | Neuroplasticity through meditation |
-| **Bruce Greyson** | 1952-present | NDE Researcher | Developed NDE Scale, University of Virginia professor | 6/7 | Rigorous scientific methodology for clinical death studies |
-| **Dean Radin** | 1952-present | Maverick Scientist | Chief Scientist IONS, consciousness-matter research | 6/7 | Quantum mechanics with consciousness |
-| **Iain McGilchrist** | 1953-present | Neuroscientist-Philosopher | Brain hemispheres and consciousness | 5/7 | Attention shapes reality |
-| **Alex Grey** | 1953-present | Artistic Visionary | Visionary art depicting consciousness states | 6/7 | Art as portal to transcendent consciousness |
-| **Jeffrey Long** | 1954-present | Maverick Scientist | NDERF database - 5,000+ NDE cases | 7/7 | Evidence-based consciousness survival |
-| **Donald Hoffman** | 1955-present | Physicist-Philosopher | Conscious realism, interface theory | 4/7 | Reality consists of conscious agents |
-| **Christof Koch** | 1956-present | Physicist-Philosopher | Advocates panpsychism and IIT | 4/7 | Information-based panpsychism |
-| **Malidoma Patrice Somé** | 1956-2021 | Indigenous Wisdom Keeper | Dagara ritual consciousness | 6/7 | Ritual and community as consciousness development |
-| **Jill Bolte Taylor** | 1959-present | Neuroscientist | Documented own stroke experience | 6/7 | Right hemisphere consciousness |
-| **Giulio Tononi** | 1960-present | Physicist-Philosopher | Integrated Information Theory (IIT) | 4/7 | Consciousness as integrated information |
-| **Rupert Spira** | 1960-present | Contemporary Teacher | Non-dual awareness teacher | 6/7 | Consciousness as knowing presence |
-| **Adyashanti** | 1962-present | Contemplative Practitioner | "Ordinary enlightenment" - awakening as natural | 6/7 | Non-dual recognition of aware presence |
-| **Joe Dispenza** | 1962-present | Bridge Builder | Neuroscience meets meditation/consciousness | 6/7 | Neuroplasticity through conscious intention |
-| **Anita Moorjani** | 1962-present | Experiential Explorer | NDE with documented spontaneous healing | 6/7 | Consciousness as divine love |
-| **Noel Pearson** | 1965-present | Indigenous Wisdom Keeper | Indigenous consciousness activism | 5/7 | Traditional awareness informing social change |
-| **David Chalmers** | 1966-present | Contemporary Philosopher | "Hard problem" of consciousness, panpsychism | 4/7 | Property dualism/Panpsychism |
-| **Steve Taylor** | 1967-present | Contemporary Philosopher | Panspiritism theory | 5/7 | Consciousness as fundamental quality |
-| **Bernardo Kastrup** | 1974-present | Contemporary Philosopher | Analytical idealism - universal consciousness | 4/7 | Reality as universal consciousness with dissociation |
-| **Philip Goff** | 1978-present | Contemporary Philosopher | Leading advocate of cosmopsychism | 4/7 | Universe as conscious entity |
-| **Hedda Hassel Mørch** | 1984-present | Contemporary Philosopher | Phenomenal powers panpsychism | 4/7 | Consciousness as causal power |
-| **Traditional Medicine People** | Various | Indigenous Wisdom | Earth-based consciousness practices | 6/7 | Connection to nature spirits |
-| **African Traditional Healers** | Various | Indigenous Wisdom | Spirit possession, divination practices | 6/7 | Ancestral wisdom traditions |
-| **Plant Medicine Shamans** | Various | Indigenous Wisdom | Plant consciousness communion | 6/7 | Plant medicine shamanism |
-| **Adyashanti** | 1962-present | Contemplative Practitioner | "Ordinary enlightenment" - awakening as natural | 6/7 | Non-dual recognition of aware presence |
-| **Osho (Rajneesh)** | 1931-1990 | Controversial Inquirer | Eastern mysticism with Western psychology | 6/7 | Synthesis of meditation, therapy, and celebration |
-| **Wilhelm Reich** | 1897-1957 | Controversial Inquirer | Orgone energy theory, body-oriented therapy | 6/7 | Consciousness as biological energy |
-| **Terence McKenna** | 1946-2000 | Controversial Inquirer | Plant medicine consciousness exploration | 6/7 | Psychedelics as evolutionary tools |
-| **Pythagoras** | c. 570-490 BCE | Classical Philosopher | Mathematical harmony and reincarnation theory | 7/7 | Soul as divine spark requiring harmonic purification |
-| **Plotinus** | c. 204-270 CE | Classical Philosopher | Founded Neoplatonism with emanation theory | 6/7 | Consciousness as multiple layers from unity to multiplicity |
-| **Heraclitus** | c. 535-475 BCE | Classical Philosopher | Logos doctrine - individual consciousness as cosmic fragment | 6/7 | Consciousness as participation in universal reason |
-| **Parmenides** | c. 515-450 BCE | Classical Philosopher | Distinguished nous from sensory awareness | 5/7 | Consciousness as gateway to unchanging reality |
-| **Empedocles** | c. 494-434 BCE | Classical Philosopher | Four-element theory with Love and Strife | 6/7 | Cosmic consciousness cycles through attraction/separation |
-| **Valentinus** | c. 100-160 CE | Controversial Inquirer | Gnostic three-level consciousness psychology | 6/7 | Spiritual, psychic, and material levels of awareness |
-| **Proclus** | 412-485 CE | Classical Philosopher | Systematic Neoplatonic consciousness hierarchy | 5/7 | Consciousness as mediating principle |
-| **Iamblichus** | c. 245-325 CE | Classical Philosopher | Developed theurgy for consciousness ascent | 6/7 | Consciousness transformation through divine practices |
-| **Al-Ghazali** | 1058-1111 | Bridge Builder | Integrated philosophy with mystical experience | 7/7 | Stages from rational to intuitive to mystical knowing |
-| **Al-Suhrawardi** | 1155-1191 | Contemplative Practitioner | Illuminationist philosophy - consciousness as light | 6/7 | Consciousness as gradations of divine light |
-| **Ibn Tufail** | 1105-1185 | Classical Philosopher | Natural consciousness development theory | 5/7 | Innate spiritual intelligence |
-| **Mulla Sadra** | 1571-1636 | Classical Philosopher | Existentialist philosophy with substantial motion | 6/7 | Consciousness as dynamic existence in motion |
-| **Abraham Abulafia** | 1240-1291 | Contemplative Practitioner | Ecstatic Kabbalah through Hebrew letters | 6/7 | Consciousness transformation through sacred linguistics |
-| **Nicholas of Cusa** | 1401-1464 | Classical Philosopher | Learned ignorance and coincidence of opposites | 5/7 | Consciousness transcending rational knowledge |
-| **Hildegard of Bingen** | 1098-1179 | Contemplative Practitioner | Viriditas - cosmic life force consciousness | 6/7 | Consciousness as cosmic life force |
-| **Marguerite Porete** | d. 1310 | Contemplative Practitioner | Seven-stage consciousness evolution theory | 7/7 | Progressive ego dissolution stages |
-| **Emanuel Swedenborg** | 1688-1772 | Bridge Builder | Correspondence theory between spiritual/natural | 7/7 | Consciousness as bridge between spiritual and natural |
-| **Jakob Böhme** | 1575-1624 | Contemplative Practitioner | Christian mystical consciousness cosmology | 6/7 | Consciousness as divine self-revelation through opposites |
-| **Paracelsus** | 1493-1541 | Maverick Scientist | Astral body as consciousness-matter interface | 6/7 | Consciousness operating through multiple bodies |
-| **Giordano Bruno** | 1548-1600 | Classical Philosopher | Infinite cosmos with distributed consciousness | 7/7 | Infinite worlds with infinite consciousness |
-| **Franz Xaver von Baader** | 1765-1841 | Classical Philosopher | Catholic mystical philosophy | 5/7 | Consciousness as divine self-knowledge |
-| **Thomas Traherne** | 1636-1674 | Contemplative Practitioner | Consciousness as infinite divine felicity | 5/7 | Consciousness transformation through purified sight |
-| **Franz Anton Mesmer** | 1734-1815 | Maverick Scientist | Animal magnetism theory | 6/7 | Healing through manipulating consciousness energy fields |
-| **Helena Blavatsky** | 1831-1891 | Bridge Builder | Theosophical synthesis of East-West traditions | 7/7 | Consciousness evolution through multiple planes |
-| **George Gurdjieff** | 1866-1949 | Experiential Explorer | Fourth Way system for consciousness development | 7/7 | Conscious evolution through work on attention |
-| **P.D. Ouspensky** | 1878-1947 | Contemporary Philosopher | Systematized Fourth Way teachings | 6/7 | Objective consciousness through higher dimensions |
-| **Andrew Jackson Davis** | 1826-1910 | Experiential Explorer | Spiritualist cosmology of consciousness survival | 6/7 | Consciousness progression through spiritual spheres |
-| **Allan Kardec** | 1804-1869 | Consciousness Researcher | Systematized Spiritist doctrine | 6/7 | Consciousness evolution through incarnations |
-| **Éliphas Lévi** | 1810-1875 | Bridge Builder | Synthesized Western esoteric traditions | 6/7 | Consciousness transformation through magical practices |
-| **Anna Kingsford** | 1846-1888 | Bridge Builder | Christian esotericism with divine feminine | 6/7 | Consciousness as divine feminine wisdom |
-| **Sri Aurobindo** | 1872-1950 | Transpersonal Psychologist | Integral Yoga for supramental beings | 7/7 | Consciousness evolution to supramental realization |
-| **Ramakrishna Paramahamsa** | 1836-1886 | Contemplative Practitioner | Empirical exploration of multiple paths | 7/7 | Universal mysticism through diverse practices |
-| **Swami Vivekananda** | 1863-1902 | Bridge Builder | Neo-Vedanta with evolutionary thought | 6/7 | Consciousness as evolving divine potential |
-| **Nisargadatta Maharaj** | 1897-1981 | Contemplative Practitioner | Distinction between awareness and consciousness | 7/7 | Awareness as pure subjectivity beyond consciousness |
-| **J. Krishnamurti** | 1895-1986 | Contemplative Practitioner | Techniqueless meditation and choiceless awareness | 7/7 | Consciousness transformation through direct perception |
-| **Abhinavagupta** | 975-1025 | Contemplative Practitioner | Kashmir Shaivism Recognition philosophy | 7/7 | Consciousness recognizing its own divine nature |
-| **Nagarjuna** | c. 150-250 CE | Contemplative Practitioner | Madhyamaka emptiness doctrine | 6/7 | Consciousness as dependently originated emptiness |
-| **Vasubandhu** | 4th century | Contemplative Practitioner | Yogacara consciousness-only doctrine | 6/7 | Reality as consciousness transformation |
-| **Asanga** | 4th century | Contemplative Practitioner | Eight types of consciousness analysis | 6/7 | Consciousness purification through understanding |
-| **Longchenpa** | 1308-1364 | Contemplative Practitioner | Dzogchen natural perfection teachings | 7/7 | Natural perfection of primordial awareness |
-| **Hakuin Ekaku** | 1686-1769 | Contemplative Practitioner | Zen koan practice and cultivation | 6/7 | Sudden realization with gradual cultivation |
-| **Bankei Yōtaku** | 1622-1693 | Contemplative Practitioner | Unborn Buddha Mind teaching | 6/7 | Natural enlightened consciousness |
-| **Ian Stevenson** | 1918-2007 | Maverick Scientist | Scientific reincarnation research | 7/7 | Empirical evidence for consciousness survival |
-| **Wilder Penfield** | 1891-1976 | Maverick Scientist | Neurological dualism from brain surgery | 6/7 | Mind as distinct from but interacting with brain |
-| **Karl Pribram** | 1919-2015 | Physicist-Philosopher | Holonomic brain theory | 6/7 | Brain as hologram interfacing with holographic reality |
-| **Pierre Teilhard de Chardin** | 1881-1955 | Physicist-Philosopher | Noosphere and Omega Point theory | 7/7 | Cosmic evolution toward universal consciousness |
-| **Gustav Fechner** | 1801-1887 | Maverick Scientist | Psychophysical panpsychism | 6/7 | Consciousness as measurable aspect of all reality |
-| **William Crookes** | 1832-1919 | Maverick Scientist | Scientific investigation of psychic phenomena | 6/7 | Rigorous investigation of consciousness phenomena |
-| **Oliver Lodge** | 1851-1940 | Maverick Scientist | Physicist investigating consciousness survival | 6/7 | Consciousness research through scientific methodology |
-| **Julian of Norwich** | c. 1342-1416 | Contemplative Practitioner | Divine love mystical theology | 6/7 | Consciousness as participation in divine love |
-| **Evelyn Underhill** | 1875-1941 | Bridge Builder | Academic mysticism frameworks | 7/7 | Systematic study of consciousness transformation |
-| **Simone Weil** | 1909-1943 | Contemporary Philosopher | Attention as spiritual practice | 6/7 | Attention as consciousness purification |
-| **Mechthild of Magdeburg** | c. 1207-1282 | Contemplative Practitioner | Flowing Light mystical psychology | 6/7 | Consciousness flowing between human and divine |
-| **Hadewijch** | 13th century | Contemplative Practitioner | Love mysticism through courtly metaphors | 6/7 | Consciousness transformation through divine love |
-| **Gertrude the Great** | 1256-1302 | Contemplative Practitioner | Heart mysticism phenomenology | 6/7 | Consciousness centered in divine heart |
-| **Mogobe Ramose** | 1947-present | Contemporary Philosopher | Ubuntu philosophy - relational consciousness | 6/7 | Being as fundamentally interconnected |
-| **John Mbiti** | 1931-2019 | Contemporary Philosopher | African communal consciousness philosophy | 6/7 | Consciousness as community participation |
-| **Kwame Gyekye** | 1939-2019 | Contemporary Philosopher | Akan philosophy of personhood | 5/7 | Consciousness development through community wisdom |
-| **David Unaipon** | 1872-1967 | Indigenous Wisdom Keeper | Dreamtime consciousness concepts | 6/7 | Awareness connected to land and ancestors |
-| **Noel Pearson** | 1965-present | Indigenous Wisdom Keeper | Indigenous consciousness activism | 5/7 | Traditional awareness informing social change |
-| **Mudrooroo** | 1938-2019 | Indigenous Wisdom Keeper | Aboriginal consciousness through literature | 5/7 | Traditional awareness through modern expression |
-| **Wande Abimbola** | 1932-present | Bridge Builder | Ifá philosophy and consciousness | 6/7 | Divination and wisdom as consciousness development |
-| **Bolaji Idowu** | 1913-1993 | Bridge Builder | Yoruba consciousness theology | 5/7 | Traditional consciousness within religious thought |
-| **Taliesin** | 6th century | Contemplative Practitioner | Celtic consciousness shape-shifting | 6/7 | Awareness as shape-shifting between worlds |
-| **Fools Crow** | 1890-1989 | Indigenous Wisdom Keeper | Lakota vision quest traditions | 6/7 | Awareness through sacred visions and ceremonies |
-| **Rolling Thunder** | 1916-1997 | Indigenous Wisdom Keeper | Cherokee medicine consciousness | 6/7 | Healing through spiritual awareness |
-| **Sun Bear** | 1929-1992 | Indigenous Wisdom Keeper | Medicine wheel consciousness | 6/7 | Awareness through natural cycles |
-| **Credo Mutwa** | 1921-2020 | Indigenous Wisdom Keeper | Zulu shamanic consciousness | 7/7 | Healing and wisdom through ancestral connection |
-| **Malidoma Patrice Somé** | 1956-2021 | Indigenous Wisdom Keeper | Dagara ritual consciousness | 6/7 | Ritual and community as consciousness development |
-| **Serge Kahili King** | 1945-present | Bridge Builder | Hawaiian Huna consciousness | 6/7 | Mana and spiritual energy as consciousness development |
-| **Pim van Lommel** | 1943-present | Maverick Scientist | Lancet NDE study with flat EEG evidence | 7/7 | Non-local consciousness - brain as receiver |
-| **Michael Sabom** | 1946-present | Maverick Scientist | First systematic medical NDE studies | 7/7 | Empirical consciousness survival model |
-| **Peter Fenwick** | 1935-present | Maverick Scientist | Neuropsychiatrist studying dying process | 7/7 | Neurobiological consciousness transcendence |
-| **Jeffrey Long** | 1954-present | Maverick Scientist | NDERF database - 5,000+ NDE cases | 7/7 | Evidence-based consciousness survival |
+| Name | Dates | Primary Category | Key Contribution | Criteria Met | Theoretical Framework | Status |
+|------|-------|------------------|------------------|--------------|----------------------|--------|
+| **Laozi** | 6th century BCE | Contemplative Practitioner | Tao as ultimate reality | 6/7 | Harmony with natural consciousness | 🔴 Not Started |
+| **Pythagoras** | c. 570-490 BCE | Classical Philosopher | Mathematical harmony and reincarnation theory | 7/7 | Soul as divine spark requiring harmonic purification | 🟢 Template Complete |
+| **Heraclitus** | c. 535-475 BCE | Classical Philosopher | Logos doctrine - individual consciousness as cosmic fragment | 6/7 | Consciousness as participation in universal reason | 🔴 Not Started |
+| **Parmenides** | c. 515-450 BCE | Classical Philosopher | Distinguished nous from sensory awareness | 5/7 | Consciousness as gateway to unchanging reality | 🔴 Not Started |
+| **Empedocles** | c. 494-434 BCE | Classical Philosopher | Four-element theory with Love and Strife | 6/7 | Cosmic consciousness cycles through attraction/separation | 🔴 Not Started |
+| **Plato** | c. 428-348 BCE | Classical Philosopher | Theory of Forms - eternal ideas underlying reality | 7/7 | Platonic idealism - consciousness accesses eternal Forms | 🟢 Template Complete |
+| **Zhuangzi** | 369-286 BCE | Contemplative Practitioner | Consciousness transformation through paradox | 6/7 | Spontaneous naturalness | 🔴 Not Started |
+| **Patanjali** | c. 2nd BCE-2nd CE | Contemplative Practitioner | Yoga Sutras - consciousness transformation | 6/7 | Eight-limbed path to samadhi | 🔴 Not Started |
+| **Valentinus** | c. 100-160 CE | Controversial Inquirer | Gnostic three-level consciousness psychology | 6/7 | Spiritual, psychic, and material levels of awareness | 🔴 Not Started |
+| **Nagarjuna** | c. 150-250 CE | Contemplative Practitioner | Madhyamaka emptiness doctrine | 6/7 | Consciousness as dependently originated emptiness | 🔴 Not Started |
+| **Plotinus** | c. 204-270 CE | Classical Philosopher | Founded Neoplatonism with emanation theory | 6/7 | Consciousness as multiple layers from unity to multiplicity | 🔴 Not Started |
+| **Iamblichus** | c. 245-325 CE | Classical Philosopher | Developed theurgy for consciousness ascent | 6/7 | Consciousness transformation through divine practices | 🔴 Not Started |
+| **Vasubandhu** | 4th century | Contemplative Practitioner | Yogacara consciousness-only doctrine | 6/7 | Reality as consciousness transformation | 🔴 Not Started |
+| **Asanga** | 4th century | Contemplative Practitioner | Eight types of consciousness analysis | 6/7 | Consciousness purification through understanding | 🔴 Not Started |
+| **Proclus** | 412-485 CE | Classical Philosopher | Systematic Neoplatonic consciousness hierarchy | 5/7 | Consciousness as mediating principle | 🔴 Not Started |
+| **Taliesin** | 6th century | Contemplative Practitioner | Celtic consciousness shape-shifting | 6/7 | Awareness as shape-shifting between worlds | 🔴 Not Started |
+| **Rabia al-Adawiyya** | c. 714-801 | Contemplative Practitioner | Pioneer of divine love mysticism | 6/7 | Pure divine love mysticism | 🔴 Not Started |
+| **Lady Tsogyal** | 8th century | Contemplative Practitioner | Female Dzogchen master | 6/7 | Dzogchen non-dual awareness | 🔴 Not Started |
+| **Abhinavagupta** | 975-1025 | Contemplative Practitioner | Kashmir Shaivism Recognition philosophy | 7/7 | Consciousness recognizing its own divine nature | 🔴 Not Started |
+| **Al-Ghazali** | 1058-1111 | Bridge Builder | Integrated philosophy with mystical experience | 7/7 | Stages from rational to intuitive to mystical knowing | 🟢 Template Complete |
+| **Hildegard of Bingen** | 1098-1179 | Contemplative Practitioner | Viriditas - cosmic life force consciousness | 6/7 | Consciousness as cosmic life force | 🔴 Not Started |
+| **Ibn Tufail** | 1105-1185 | Classical Philosopher | Natural consciousness development theory | 5/7 | Innate spiritual intelligence | 🔴 Not Started |
+| **Al-Suhrawardi** | 1155-1191 | Contemplative Practitioner | Illuminationist philosophy - consciousness as light | 6/7 | Consciousness as gradations of divine light | 🔴 Not Started |
+| **Ibn Arabi** | 1165-1240 | Contemplative Practitioner | Unity of Being doctrine | 6/7 | Wahdat al-wujud (Unity of Existence) | 🔴 Not Started |
+| **Dogen Zenji** | 1200-1253 | Contemplative Practitioner | Soto Zen founder, non-dual philosophy | 6/7 | Practice-enlightenment unity | 🔴 Not Started |
+| **Jalal al-Din Rumi** | 1207-1273 | Contemplative Practitioner | Mystical consciousness through poetry | 6/7 | Islamic mysticism of divine love | 🔴 Not Started |
+| **Mechthild of Magdeburg** | c. 1207-1282 | Contemplative Practitioner | Flowing Light mystical psychology | 6/7 | Consciousness flowing between human and divine | 🔴 Not Started |
+| **Abraham Abulafia** | 1240-1291 | Contemplative Practitioner | Ecstatic Kabbalah through Hebrew letters | 6/7 | Consciousness transformation through sacred linguistics | 🔴 Not Started |
+| **Hadewijch** | 13th century | Contemplative Practitioner | Love mysticism through courtly metaphors | 6/7 | Consciousness transformation through divine love | 🔴 Not Started |
+| **Gertrude the Great** | 1256-1302 | Contemplative Practitioner | Heart mysticism phenomenology | 6/7 | Consciousness centered in divine heart | 🔴 Not Started |
+| **Meister Eckhart** | c. 1260-1328 | Contemplative Practitioner | Mystical theology of divine birth | 6/7 | Apophatic mysticism | 🔴 Not Started |
+| **Marguerite Porete** | d. 1310 | Contemplative Practitioner | Seven-stage consciousness evolution theory | 7/7 | Progressive ego dissolution stages | 🔴 Not Started |
+| **Longchenpa** | 1308-1364 | Contemplative Practitioner | Dzogchen natural perfection teachings | 7/7 | Natural perfection of primordial awareness | 🔴 Not Started |
+| **Julian of Norwich** | c. 1342-1416 | Contemplative Practitioner | Divine love mystical theology | 6/7 | Consciousness as participation in divine love | 🔴 Not Started |
+| **Nicholas of Cusa** | 1401-1464 | Classical Philosopher | Learned ignorance and coincidence of opposites | 5/7 | Consciousness transcending rational knowledge | 🔴 Not Started |
+| **Paracelsus** | 1493-1541 | Maverick Scientist | Astral body as consciousness-matter interface | 6/7 | Consciousness operating through multiple bodies | 🔴 Not Started |
+| **Teresa of Avila** | 1515-1582 | Contemplative Practitioner | Mapped mystical consciousness stages | 6/7 | Progressive contemplative prayer | 🔴 Not Started |
+| **Isaac Luria** | 1534-1572 | Contemplative Practitioner | Lurianic Kabbalah - cosmic restoration | 6/7 | Divine sparks and tikkun | 🔴 Not Started |
+| **Giordano Bruno** | 1548-1600 | Classical Philosopher | Infinite cosmos with distributed consciousness | 7/7 | Infinite worlds with infinite consciousness | 🔴 Not Started |
+| **Mulla Sadra** | 1571-1636 | Classical Philosopher | Existentialist philosophy with substantial motion | 6/7 | Consciousness as dynamic existence in motion | 🔴 Not Started |
+| **Jakob Böhme** | 1575-1624 | Contemplative Practitioner | Christian mystical consciousness cosmology | 6/7 | Consciousness as divine self-revelation through opposites | 🔴 Not Started |
+| **Bankei Yōtaku** | 1622-1693 | Contemplative Practitioner | Unborn Buddha Mind teaching | 6/7 | Natural enlightened consciousness | 🔴 Not Started |
+| **Thomas Traherne** | 1636-1674 | Contemplative Practitioner | Consciousness as infinite divine felicity | 5/7 | Consciousness transformation through purified sight | 🔴 Not Started |
+| **Hakuin Ekaku** | 1686-1769 | Contemplative Practitioner | Zen koan practice and cultivation | 6/7 | Sudden realization with gradual cultivation | 🔴 Not Started |
+| **Emanuel Swedenborg** | 1688-1772 | Bridge Builder | Correspondence theory between spiritual/natural | 7/7 | Consciousness as bridge between spiritual and natural | 🔴 Not Started |
+| **Immanuel Kant** | 1724-1804 | Classical Philosopher | Transcendental idealism - mind constructs experience | 4/7 | Consciousness provides structural conditions for experience | 🔴 Not Started |
+| **Franz Anton Mesmer** | 1734-1815 | Maverick Scientist | Animal magnetism theory | 6/7 | Healing through manipulating consciousness energy fields | 🔴 Not Started |
+| **William Blake** | 1757-1827 | Artistic Visionary | Mystical consciousness through art | 7/7 | Imagination as divine faculty | 🔴 Not Started |
+| **Franz Xaver von Baader** | 1765-1841 | Classical Philosopher | Catholic mystical philosophy | 5/7 | Consciousness as divine self-knowledge | 🔴 Not Started |
+| **G.W.F. Hegel** | 1770-1831 | Classical Philosopher | Absolute idealism - reality as self-developing spirit | 4/7 | Reality as dialectical unfolding of absolute spirit | 🔴 Not Started |
+| **Arthur Schopenhauer** | 1788-1860 | Classical Philosopher | Will as fundamental reality underlying phenomena | 4/7 | Will-based idealism | 🔴 Not Started |
+| **Gustav Fechner** | 1801-1887 | Maverick Scientist | Psychophysical panpsychism | 6/7 | Consciousness as measurable aspect of all reality | 🔴 Not Started |
+| **Allan Kardec** | 1804-1869 | Consciousness Researcher | Systematized Spiritist doctrine | 6/7 | Consciousness evolution through incarnations | 🔴 Not Started |
+| **Éliphas Lévi** | 1810-1875 | Bridge Builder | Synthesized Western esoteric traditions | 6/7 | Consciousness transformation through magical practices | 🔴 Not Started |
+| **Andrew Jackson Davis** | 1826-1910 | Experiential Explorer | Spiritualist cosmology of consciousness survival | 6/7 | Consciousness progression through spiritual spheres | 🔴 Not Started |
+| **Helena Blavatsky** | 1831-1891 | Bridge Builder | Theosophical synthesis of East-West traditions | 7/7 | Consciousness evolution through multiple planes | 🔴 Not Started |
+| **William Crookes** | 1832-1919 | Maverick Scientist | Scientific investigation of psychic phenomena | 6/7 | Rigorous investigation of consciousness phenomena | 🔴 Not Started |
+| **Ramakrishna Paramahamsa** | 1836-1886 | Contemplative Practitioner | Empirical exploration of multiple paths | 7/7 | Universal mysticism through diverse practices | 🔴 Not Started |
+| **William James** | 1842-1910 | Psychology Pioneer | "Varieties of Religious Experience" | 5/7 | Radical empiricism | 🔴 Not Started |
+| **Anna Kingsford** | 1846-1888 | Bridge Builder | Christian esotericism with divine feminine | 6/7 | Consciousness as divine feminine wisdom | 🔴 Not Started |
+| **Oliver Lodge** | 1851-1940 | Maverick Scientist | Physicist investigating consciousness survival | 6/7 | Consciousness research through scientific methodology | 🔴 Not Started |
+| **Henri Bergson** | 1859-1941 | Process Philosopher | Creative evolution - consciousness as creative force | 4/7 | Creative evolution through temporal becoming | 🔴 Not Started |
+| **Edmund Husserl** | 1859-1938 | Phenomenologist | Founded phenomenology - systematic study of consciousness | 4/7 | Transcendental phenomenology | 🔴 Not Started |
+| **Rudolf Steiner** | 1861-1925 | Bridge Builder | Anthroposophy - "spiritual science" methodology | 7/7 | Multi-dimensional reality with trained perception | 🔴 Not Started |
+| **Alfred North Whitehead** | 1861-1947 | Process Philosopher | Process philosophy - reality as experiential events | 4/7 | All entities have mental aspects | 🔴 Not Started |
+| **Hilma af Klint** | 1862-1944 | Artistic Visionary | Abstract art through mediumistic practices | 6/7 | Theosophical spiritual communication | 🔴 Not Started |
+| **Black Elk** | 1863-1950 | Indigenous Wisdom | Lakota holy man with vision teachings | 6/7 | Sacred pipe and vision quest traditions | 🔴 Not Started |
+| **Swami Vivekananda** | 1863-1902 | Bridge Builder | Neo-Vedanta with evolutionary thought | 6/7 | Consciousness as evolving divine potential | 🔴 Not Started |
+| **Wassily Kandinsky** | 1866-1944 | Artistic Visionary | Spiritual dimension of color and form | 6/7 | Spiritual abstraction in art | 🔴 Not Started |
+| **George Gurdjieff** | 1866-1949 | Experiential Explorer | Fourth Way system for consciousness development | 7/7 | Conscious evolution through work on attention | 🔴 Not Started |
+| **D.T. Suzuki** | 1870-1966 | Bridge Builder | Introduced Eastern philosophy to West | 6/7 | Non-dual consciousness | 🔴 Not Started |
+| **David Unaipon** | 1872-1967 | Indigenous Wisdom Keeper | Dreamtime consciousness concepts | 6/7 | Awareness connected to land and ancestors | 🔴 Not Started |
+| **Sri Aurobindo** | 1872-1950 | Transpersonal Psychologist | Integral Yoga for supramental beings | 7/7 | Consciousness evolution to supramental realization | 🔴 Not Started |
+| **Richard Wilhelm** | 1873-1930 | Bridge Builder | Translated Chinese philosophical texts | 6/7 | Tao as fundamental principle | 🔴 Not Started |
+| **Carl Jung** | 1875-1961 | Depth Psychologist | Analytical psychology, collective unconscious | 6/7 | Psyche with personal and collective layers | 🔴 Not Started |
+| **Evelyn Underhill** | 1875-1941 | Bridge Builder | Academic mysticism frameworks | 7/7 | Systematic study of consciousness transformation | 🔴 Not Started |
+| **P.D. Ouspensky** | 1878-1947 | Contemporary Philosopher | Systematized Fourth Way teachings | 6/7 | Objective consciousness through higher dimensions | 🔴 Not Started |
+| **Ramana Maharshi** | 1879-1950 | Contemplative Practitioner | Self-inquiry method ("Who am I?") | 6/7 | Advaita Vedanta self-investigation | 🔴 Not Started |
+| **Pierre Teilhard de Chardin** | 1881-1955 | Physicist-Philosopher | Noosphere and Omega Point theory | 7/7 | Cosmic evolution toward universal consciousness | 🔴 Not Started |
+| **Roberto Assagioli** | 1888-1974 | Transpersonal Psychology | Psychosynthesis - holistic psychology | 6/7 | Progressive integration around Higher Self | 🔴 Not Started |
+| **Martin Heidegger** | 1889-1976 | Phenomenologist | Existential analytics of temporal consciousness | 4/7 | Fundamental ontology of Being | 🔴 Not Started |
+| **Fools Crow** | 1890-1989 | Indigenous Wisdom Keeper | Lakota vision quest traditions | 6/7 | Awareness through sacred visions and ceremonies | 🔴 Not Started |
+| **Wilder Penfield** | 1891-1976 | Maverick Scientist | Neurological dualism from brain surgery | 6/7 | Mind as distinct from but interacting with brain | 🔴 Not Started |
+| **María Sabina** | 1894-1985 | Indigenous Wisdom | Mazatec mushroom ceremony keeper | 6/7 | Sacred mushroom consciousness | 🔴 Not Started |
+| **Aldous Huxley** | 1894-1963 | Artistic Visionary | Literature and psychedelic consciousness | 6/7 | "Mind-at-Large" theory | 🔴 Not Started |
+| **J. Krishnamurti** | 1895-1986 | Contemplative Practitioner | Techniqueless meditation and choiceless awareness | 7/7 | Consciousness transformation through direct perception | 🔴 Not Started |
+| **J.B. Rhine** | 1895-1980 | Maverick Scientist | "Father of parapsychology" | 6/7 | Scientific methodology for psi | 🔴 Not Started |
+| **Wilhelm Reich** | 1897-1957 | Controversial Inquirer | Orgone energy theory, body-oriented therapy | 6/7 | Consciousness as biological energy | 🔴 Not Started |
+| **Nisargadatta Maharaj** | 1897-1981 | Contemplative Practitioner | Distinction between awareness and consciousness | 7/7 | Awareness as pure subjectivity beyond consciousness | 🔴 Not Started |
+| **Albert Hofmann** | 1906-2008 | Psychedelic Researcher | Discoverer of LSD, consciousness research | 6/7 | Psychedelics as medicines for the soul | 🔴 Not Started |
+| **Abraham Maslow** | 1908-1970 | Transpersonal Psychology | Hierarchy of needs, peak experiences | 6/7 | Humanistic-transpersonal psychology | 🔴 Not Started |
+| **Maurice Merleau-Ponty** | 1908-1961 | Phenomenologist | Embodied phenomenology - primacy of perception | 4/7 | Consciousness as fundamentally embodied | 🔴 Not Started |
+| **Simone Weil** | 1909-1943 | Contemporary Philosopher | Attention as spiritual practice | 6/7 | Attention as consciousness purification | 🔴 Not Started |
+| **Bolaji Idowu** | 1913-1993 | Bridge Builder | Yoruba consciousness theology | 5/7 | Traditional consciousness within religious thought | 🔴 Not Started |
+| **John C. Lilly** | 1915-2001 | Experiential Explorer | Isolation tank, consciousness research | 7/7 | Human biocomputer model | 🔴 Not Started |
+| **Alan Watts** | 1915-1973 | Bridge Builder | Eastern wisdom for Western counterculture | 6/7 | Integration of East-West psychology | 🔴 Not Started |
+| **Robert Monroe** | 1915-1995 | Experiential Explorer | Out-of-body experience pioneer, Hemi-Sync | 7/7 | Consciousness as non-physical explorer | 🔴 Not Started |
+| **Rolling Thunder** | 1916-1997 | Indigenous Wisdom Keeper | Cherokee medicine consciousness | 6/7 | Healing through spiritual awareness | 🔴 Not Started |
+| **David Bohm** | 1917-1992 | Physicist-Philosopher | Implicate order theory | 4/7 | Consciousness and matter from deeper order | 🔴 Not Started |
+| **Ian Stevenson** | 1918-2007 | Maverick Scientist | Scientific reincarnation research | 7/7 | Empirical evidence for consciousness survival | 🔴 Not Started |
+| **Karl Pribram** | 1919-2015 | Physicist-Philosopher | Holonomic brain theory | 6/7 | Brain as hologram interfacing with holographic reality | 🔴 Not Started |
+| **Credo Mutwa** | 1921-2020 | Indigenous Wisdom Keeper | Zulu shamanic consciousness | 7/7 | Healing and wisdom through ancestral connection | 🔴 Not Started |
+| **Itzhak Bentov** | 1923-1979 | Maverick Scientist | Vibrational consciousness model | 6/7 | Consciousness as cosmic vibration | 🔴 Not Started |
+| **Carlos Castaneda** | 1925-1998 | Controversial Inquirer | Don Juan series on shamanic knowledge | 6/7 | Separate reality through perception shifts | 🔴 Not Started |
+| **Thich Nhat Hanh** | 1926-2022 | Contemplative Practitioner | Engaged Buddhism, mindfulness in West | 7/7 | Interbeing - interconnected consciousness | 🔴 Not Started |
+| **Henry Stapp** | 1928-present | Physicist-Philosopher | Quantum interactive dualism | 4/7 | Consciousness causes quantum collapse | 🔴 Not Started |
+| **Jane Roberts** | 1929-1984 | Controversial Inquirer | Seth material channel | 6/7 | Multidimensional consciousness | 🔴 Not Started |
+| **Sun Bear** | 1929-1992 | Indigenous Wisdom Keeper | Medicine wheel consciousness | 6/7 | Awareness through natural cycles | 🔴 Not Started |
+| **Robert Jahn** | 1930-2017 | Maverick Scientist | PEAR laboratory consciousness-matter studies | 6/7 | Consciousness role in physical reality | 🔴 Not Started |
+| **Edgar Mitchell** | 1930-2016 | Maverick Scientist | Founded IONS after space mystical experience | 6/7 | Consciousness as fundamental | 🔴 Not Started |
+| **Stanislav Grof** | 1931-present | Transpersonal Psychology | Transpersonal psychology pioneer, holotropic breathwork | 7/7 | Cartography of consciousness model | 🔴 Not Started |
+| **Ram Dass** | 1931-2019 | Experiential Explorer | Psychedelic research, Eastern-Western integration | 7/7 | Spiritual psychology | 🔴 Not Started |
+| **Osho (Rajneesh)** | 1931-1990 | Controversial Inquirer | Eastern mysticism with Western psychology | 6/7 | Synthesis of meditation, therapy, and celebration | 🔴 Not Started |
+| **Roger Penrose** | 1931-present | Physicist-Philosopher | Orchestrated Objective Reduction (Orch-OR) theory | 4/7 | Quantum consciousness | 🔴 Not Started |
+| **John Mbiti** | 1931-2019 | Contemporary Philosopher | African communal consciousness philosophy | 6/7 | Consciousness as community participation | 🔴 Not Started |
+| **Ervin Laszlo** | 1932-present | Systems Theorist | Integral theory, consciousness field theory | 4/7 | Consciousness as fundamental field | 🔴 Not Started |
+| **Timothy Sprigge** | 1932-2007 | Contemporary Philosopher | Defended absolute idealism | 4/7 | Reality as unified conscious experience | 🔴 Not Started |
+| **Wande Abimbola** | 1932-present | Bridge Builder | Ifá philosophy and consciousness | 6/7 | Divination and wisdom as consciousness development | 🔴 Not Started |
+| **Kenneth Ring** | 1935-present | NDE Researcher | Co-founded IANDS, scientific NDE protocols | 6/7 | Scientific approach to NDE research | 🔴 Not Started |
+| **Peter Fenwick** | 1935-present | Maverick Scientist | Neuropsychiatrist studying dying process | 7/7 | Neurobiological consciousness transcendence | 🔴 Not Started |
+| **Amit Goswami** | 1936-present | Physicist-Philosopher | Quantum consciousness theory | 4/7 | Consciousness as ground of being | 🔴 Not Started |
+| **Pema Chödrön** | 1936-present | Contemplative Practitioner | Tibetan Buddhist teachings for West | 6/7 | Buddhist psychology of difficult emotions | 🔴 Not Started |
+| **Ralph Metzner** | 1936-2019 | Experiential Explorer | "The Psychedelic Experience," shamanic psychology | 6/7 | Multidimensional consciousness | 🔴 Not Started |
+| **Charles Tart** | 1937-2025 | Altered States Researcher | Transpersonal psychology founder, "consensus trance" | 6/7 | State-specific sciences | 🔴 Not Started |
+| **Thomas Nagel** | 1937-present | Contemporary Philosopher | "What Is It Like to Be a Bat?" - anti-reductionist | 4/7 | Anti-reductive naturalism | 🔴 Not Started |
+| **Mudrooroo** | 1938-2019 | Indigenous Wisdom Keeper | Aboriginal consciousness through literature | 5/7 | Traditional awareness through modern expression | 🔴 Not Started |
+| **Fritjof Capra** | 1939-present | Systems Theorist | Systems view integrating quantum physics | 4/7 | Consciousness as emergent property of living systems | 🔴 Not Started |
+| **James Fadiman** | 1939-present | Experiential Explorer | Psychedelic research, microdosing protocols | 6/7 | Transpersonal psychology | 🔴 Not Started |
+| **Kwame Gyekye** | 1939-2019 | Contemporary Philosopher | Akan philosophy of personhood | 5/7 | Consciousness development through community wisdom | 🔴 Not Started |
+| **Federico Faggin** | 1941-present | Physicist-Philosopher | Quantum Information Panpsychism | 5/7 | Consciousness as quantum information | 🔴 Not Started |
+| **Christina Grof** | 1941-2014 | Experiential Explorer | Co-developed Holotropic Breathwork | 6/7 | Consciousness as self-healing | 🔴 Not Started |
+| **Rupert Sheldrake** | 1942-present | Maverick Scientist | Morphic resonance theory | 6/7 | Collective memory through fields | 🔴 Not Started |
+| **Pim van Lommel** | 1943-present | Maverick Scientist | Lancet NDE study with flat EEG evidence | 7/7 | Non-local consciousness - brain as receiver | 🔴 Not Started |
+| **Raymond Moody** | 1944-present | NDE Researcher | Coined "near-death experience," pioneered NDE studies | 6/7 | Systematic methodology for consciousness during death | 🔴 Not Started |
+| **Francis Lucille** | 1944-present | Contemporary Teacher | Physicist turned Advaita teacher | 6/7 | Consciousness as shared being | 🔴 Not Started |
+| **Serge Kahili King** | 1945-present | Bridge Builder | Hawaiian Huna consciousness | 6/7 | Mana and spiritual energy as consciousness development | 🔴 Not Started |
+| **Terence McKenna** | 1946-2000 | Controversial Inquirer | Plant medicine consciousness exploration | 6/7 | Psychedelics as evolutionary tools | 🔴 Not Started |
+| **Matthieu Ricard** | 1946-present | Contemplative Practitioner | Buddhist meditation with neuroscience | 7/7 | Tibetan Buddhist meditation methodology | 🔴 Not Started |
+| **Michael Sabom** | 1946-present | Maverick Scientist | First systematic medical NDE studies | 7/7 | Empirical consciousness survival model | 🔴 Not Started |
+| **Stuart Hameroff** | 1947-present | Physicist-Philosopher | Co-developed Orch-OR theory | 4/7 | Quantum consciousness in microtubules | 🔴 Not Started |
+| **Mogobe Ramose** | 1947-present | Contemporary Philosopher | Ubuntu philosophy - relational consciousness | 6/7 | Being as fundamentally interconnected | 🔴 Not Started |
+| **Eckhart Tolle** | 1948-present | Bridge Builder | "Power of Now" - present moment awareness | 6/7 | Non-dual awareness behind mental activity | 🔴 Not Started |
+| **Stephan Bodian** | 1948-present | Bridge Builder | East-West psychology integration | 6/7 | Awakening in everyday life | 🔴 Not Started |
+| **Ken Wilber** | 1949-present | Integral Theorist | Comprehensive integral theory | 6/7 | Consciousness evolution through stages | 🔴 Not Started |
+| **Michael Tye** | 1950-present | Contemporary Philosopher | Converted to panprotopsychism | 4/7 | Phenomenal concept strategy | 🔴 Not Started |
+| **Robert Gilbert** | 1950-2025 | Consciousness Researcher | Sacred geometry and BioGeometry research | 6/7 | Vibrational consciousness through sacred geometry | 🔴 Not Started |
+| **Richard Davidson** | 1951-present | Contemplative Neuroscience | Founder of contemplative neuroscience | 6/7 | Neuroplasticity through meditation | 🔴 Not Started |
+| **Bruce Greyson** | 1952-present | NDE Researcher | Developed NDE Scale, University of Virginia professor | 6/7 | Rigorous scientific methodology for clinical death studies | 🔴 Not Started |
+| **Dean Radin** | 1952-present | Maverick Scientist | Chief Scientist IONS, consciousness-matter research | 6/7 | Quantum mechanics with consciousness | 🔴 Not Started |
+| **Iain McGilchrist** | 1953-present | Neuroscientist-Philosopher | Brain hemispheres and consciousness | 5/7 | Attention shapes reality | 🔴 Not Started |
+| **Alex Grey** | 1953-present | Artistic Visionary | Visionary art depicting consciousness states | 6/7 | Art as portal to transcendent consciousness | 🔴 Not Started |
+| **Jeffrey Long** | 1954-present | Maverick Scientist | NDERF database - 5,000+ NDE cases | 7/7 | Evidence-based consciousness survival | 🔴 Not Started |
+| **Donald Hoffman** | 1955-present | Physicist-Philosopher | Conscious realism, interface theory | 4/7 | Reality consists of conscious agents | 🔴 Not Started |
+| **Christof Koch** | 1956-present | Physicist-Philosopher | Advocates panpsychism and IIT | 4/7 | Information-based panpsychism | 🔴 Not Started |
+| **Malidoma Patrice Somé** | 1956-2021 | Indigenous Wisdom Keeper | Dagara ritual consciousness | 6/7 | Ritual and community as consciousness development | 🔴 Not Started |
+| **Jill Bolte Taylor** | 1959-present | Neuroscientist | Documented own stroke experience | 6/7 | Right hemisphere consciousness | 🔴 Not Started |
+| **Giulio Tononi** | 1960-present | Physicist-Philosopher | Integrated Information Theory (IIT) | 4/7 | Consciousness as integrated information | 🔴 Not Started |
+| **Rupert Spira** | 1960-present | Contemporary Teacher | Non-dual awareness teacher | 6/7 | Consciousness as knowing presence | 🔴 Not Started |
+| **Adyashanti** | 1962-present | Contemplative Practitioner | "Ordinary enlightenment" - awakening as natural | 6/7 | Non-dual recognition of aware presence | 🔴 Not Started |
+| **Joe Dispenza** | 1962-present | Bridge Builder | Neuroscience meets meditation/consciousness | 6/7 | Neuroplasticity through conscious intention | 🔴 Not Started |
+| **Anita Moorjani** | 1962-present | Experiential Explorer | NDE with documented spontaneous healing | 6/7 | Consciousness as divine love | 🔴 Not Started |
+| **Noel Pearson** | 1965-present | Indigenous Wisdom Keeper | Indigenous consciousness activism | 5/7 | Traditional awareness informing social change | 🔴 Not Started |
+| **David Chalmers** | 1966-present | Contemporary Philosopher | "Hard problem" of consciousness, panpsychism | 4/7 | Property dualism/Panpsychism | 🔴 Not Started |
+| **Steve Taylor** | 1967-present | Contemporary Philosopher | Panspiritism theory | 5/7 | Consciousness as fundamental quality | 🔴 Not Started |
+| **Bernardo Kastrup** | 1974-present | Contemporary Philosopher | Analytical idealism - universal consciousness | 4/7 | Reality as universal consciousness with dissociation | 🔴 Not Started |
+| **Philip Goff** | 1978-present | Contemporary Philosopher | Leading advocate of cosmopsychism | 4/7 | Universe as conscious entity | 🔴 Not Started |
+| **Hedda Hassel Mørch** | 1984-present | Contemporary Philosopher | Phenomenal powers panpsychism | 4/7 | Consciousness as causal power | 🔴 Not Started |
+| **Traditional Medicine People** | Various | Indigenous Wisdom | Earth-based consciousness practices | 6/7 | Connection to nature spirits | 🔴 Not Started |
+| **African Traditional Healers** | Various | Indigenous Wisdom | Spirit possession, divination practices | 6/7 | Ancestral wisdom traditions | 🔴 Not Started |
+| **Plant Medicine Shamans** | Various | Indigenous Wisdom | Plant consciousness communion | 6/7 | Plant medicine shamanism | 🔴 Not Started |
+| **Adyashanti** | 1962-present | Contemplative Practitioner | "Ordinary enlightenment" - awakening as natural | 6/7 | Non-dual recognition of aware presence | 🔴 Not Started |
+| **Osho (Rajneesh)** | 1931-1990 | Controversial Inquirer | Eastern mysticism with Western psychology | 6/7 | Synthesis of meditation, therapy, and celebration | 🔴 Not Started |
+| **Wilhelm Reich** | 1897-1957 | Controversial Inquirer | Orgone energy theory, body-oriented therapy | 6/7 | Consciousness as biological energy | 🔴 Not Started |
+| **Terence McKenna** | 1946-2000 | Controversial Inquirer | Plant medicine consciousness exploration | 6/7 | Psychedelics as evolutionary tools | 🔴 Not Started |
+| **Pythagoras** | c. 570-490 BCE | Classical Philosopher | Mathematical harmony and reincarnation theory | 7/7 | Soul as divine spark requiring harmonic purification | 🔴 Not Started |
+| **Plotinus** | c. 204-270 CE | Classical Philosopher | Founded Neoplatonism with emanation theory | 6/7 | Consciousness as multiple layers from unity to multiplicity | 🔴 Not Started |
+| **Heraclitus** | c. 535-475 BCE | Classical Philosopher | Logos doctrine - individual consciousness as cosmic fragment | 6/7 | Consciousness as participation in universal reason | 🔴 Not Started |
+| **Parmenides** | c. 515-450 BCE | Classical Philosopher | Distinguished nous from sensory awareness | 5/7 | Consciousness as gateway to unchanging reality | 🔴 Not Started |
+| **Empedocles** | c. 494-434 BCE | Classical Philosopher | Four-element theory with Love and Strife | 6/7 | Cosmic consciousness cycles through attraction/separation | 🔴 Not Started |
+| **Valentinus** | c. 100-160 CE | Controversial Inquirer | Gnostic three-level consciousness psychology | 6/7 | Spiritual, psychic, and material levels of awareness | 🔴 Not Started |
+| **Proclus** | 412-485 CE | Classical Philosopher | Systematic Neoplatonic consciousness hierarchy | 5/7 | Consciousness as mediating principle | 🔴 Not Started |
+| **Iamblichus** | c. 245-325 CE | Classical Philosopher | Developed theurgy for consciousness ascent | 6/7 | Consciousness transformation through divine practices | 🔴 Not Started |
+| **Al-Ghazali** | 1058-1111 | Bridge Builder | Integrated philosophy with mystical experience | 7/7 | Stages from rational to intuitive to mystical knowing | 🔴 Not Started |
+| **Al-Suhrawardi** | 1155-1191 | Contemplative Practitioner | Illuminationist philosophy - consciousness as light | 6/7 | Consciousness as gradations of divine light | 🔴 Not Started |
+| **Ibn Tufail** | 1105-1185 | Classical Philosopher | Natural consciousness development theory | 5/7 | Innate spiritual intelligence | 🔴 Not Started |
+| **Mulla Sadra** | 1571-1636 | Classical Philosopher | Existentialist philosophy with substantial motion | 6/7 | Consciousness as dynamic existence in motion | 🔴 Not Started |
+| **Abraham Abulafia** | 1240-1291 | Contemplative Practitioner | Ecstatic Kabbalah through Hebrew letters | 6/7 | Consciousness transformation through sacred linguistics | 🔴 Not Started |
+| **Nicholas of Cusa** | 1401-1464 | Classical Philosopher | Learned ignorance and coincidence of opposites | 5/7 | Consciousness transcending rational knowledge | 🔴 Not Started |
+| **Hildegard of Bingen** | 1098-1179 | Contemplative Practitioner | Viriditas - cosmic life force consciousness | 6/7 | Consciousness as cosmic life force | 🔴 Not Started |
+| **Marguerite Porete** | d. 1310 | Contemplative Practitioner | Seven-stage consciousness evolution theory | 7/7 | Progressive ego dissolution stages | 🔴 Not Started |
+| **Emanuel Swedenborg** | 1688-1772 | Bridge Builder | Correspondence theory between spiritual/natural | 7/7 | Consciousness as bridge between spiritual and natural | 🔴 Not Started |
+| **Jakob Böhme** | 1575-1624 | Contemplative Practitioner | Christian mystical consciousness cosmology | 6/7 | Consciousness as divine self-revelation through opposites | 🔴 Not Started |
+| **Paracelsus** | 1493-1541 | Maverick Scientist | Astral body as consciousness-matter interface | 6/7 | Consciousness operating through multiple bodies | 🔴 Not Started |
+| **Giordano Bruno** | 1548-1600 | Classical Philosopher | Infinite cosmos with distributed consciousness | 7/7 | Infinite worlds with infinite consciousness | 🔴 Not Started |
+| **Franz Xaver von Baader** | 1765-1841 | Classical Philosopher | Catholic mystical philosophy | 5/7 | Consciousness as divine self-knowledge | 🔴 Not Started |
+| **Thomas Traherne** | 1636-1674 | Contemplative Practitioner | Consciousness as infinite divine felicity | 5/7 | Consciousness transformation through purified sight | 🔴 Not Started |
+| **Franz Anton Mesmer** | 1734-1815 | Maverick Scientist | Animal magnetism theory | 6/7 | Healing through manipulating consciousness energy fields | 🔴 Not Started |
+| **Helena Blavatsky** | 1831-1891 | Bridge Builder | Theosophical synthesis of East-West traditions | 7/7 | Consciousness evolution through multiple planes | 🔴 Not Started |
+| **George Gurdjieff** | 1866-1949 | Experiential Explorer | Fourth Way system for consciousness development | 7/7 | Conscious evolution through work on attention | 🔴 Not Started |
+| **P.D. Ouspensky** | 1878-1947 | Contemporary Philosopher | Systematized Fourth Way teachings | 6/7 | Objective consciousness through higher dimensions | 🔴 Not Started |
+| **Andrew Jackson Davis** | 1826-1910 | Experiential Explorer | Spiritualist cosmology of consciousness survival | 6/7 | Consciousness progression through spiritual spheres | 🔴 Not Started |
+| **Allan Kardec** | 1804-1869 | Consciousness Researcher | Systematized Spiritist doctrine | 6/7 | Consciousness evolution through incarnations | 🔴 Not Started |
+| **Éliphas Lévi** | 1810-1875 | Bridge Builder | Synthesized Western esoteric traditions | 6/7 | Consciousness transformation through magical practices | 🔴 Not Started |
+| **Anna Kingsford** | 1846-1888 | Bridge Builder | Christian esotericism with divine feminine | 6/7 | Consciousness as divine feminine wisdom | 🔴 Not Started |
+| **Sri Aurobindo** | 1872-1950 | Transpersonal Psychologist | Integral Yoga for supramental beings | 7/7 | Consciousness evolution to supramental realization | 🔴 Not Started |
+| **Ramakrishna Paramahamsa** | 1836-1886 | Contemplative Practitioner | Empirical exploration of multiple paths | 7/7 | Universal mysticism through diverse practices | 🔴 Not Started |
+| **Swami Vivekananda** | 1863-1902 | Bridge Builder | Neo-Vedanta with evolutionary thought | 6/7 | Consciousness as evolving divine potential | 🔴 Not Started |
+| **Nisargadatta Maharaj** | 1897-1981 | Contemplative Practitioner | Distinction between awareness and consciousness | 7/7 | Awareness as pure subjectivity beyond consciousness | 🔴 Not Started |
+| **J. Krishnamurti** | 1895-1986 | Contemplative Practitioner | Techniqueless meditation and choiceless awareness | 7/7 | Consciousness transformation through direct perception | 🔴 Not Started |
+| **Abhinavagupta** | 975-1025 | Contemplative Practitioner | Kashmir Shaivism Recognition philosophy | 7/7 | Consciousness recognizing its own divine nature | 🔴 Not Started |
+| **Nagarjuna** | c. 150-250 CE | Contemplative Practitioner | Madhyamaka emptiness doctrine | 6/7 | Consciousness as dependently originated emptiness | 🔴 Not Started |
+| **Vasubandhu** | 4th century | Contemplative Practitioner | Yogacara consciousness-only doctrine | 6/7 | Reality as consciousness transformation | 🔴 Not Started |
+| **Asanga** | 4th century | Contemplative Practitioner | Eight types of consciousness analysis | 6/7 | Consciousness purification through understanding | 🔴 Not Started |
+| **Longchenpa** | 1308-1364 | Contemplative Practitioner | Dzogchen natural perfection teachings | 7/7 | Natural perfection of primordial awareness | 🔴 Not Started |
+| **Hakuin Ekaku** | 1686-1769 | Contemplative Practitioner | Zen koan practice and cultivation | 6/7 | Sudden realization with gradual cultivation | 🔴 Not Started |
+| **Bankei Yōtaku** | 1622-1693 | Contemplative Practitioner | Unborn Buddha Mind teaching | 6/7 | Natural enlightened consciousness | 🔴 Not Started |
+| **Ian Stevenson** | 1918-2007 | Maverick Scientist | Scientific reincarnation research | 7/7 | Empirical evidence for consciousness survival | 🔴 Not Started |
+| **Wilder Penfield** | 1891-1976 | Maverick Scientist | Neurological dualism from brain surgery | 6/7 | Mind as distinct from but interacting with brain | 🔴 Not Started |
+| **Karl Pribram** | 1919-2015 | Physicist-Philosopher | Holonomic brain theory | 6/7 | Brain as hologram interfacing with holographic reality | 🔴 Not Started |
+| **Pierre Teilhard de Chardin** | 1881-1955 | Physicist-Philosopher | Noosphere and Omega Point theory | 7/7 | Cosmic evolution toward universal consciousness | 🔴 Not Started |
+| **Gustav Fechner** | 1801-1887 | Maverick Scientist | Psychophysical panpsychism | 6/7 | Consciousness as measurable aspect of all reality | 🔴 Not Started |
+| **William Crookes** | 1832-1919 | Maverick Scientist | Scientific investigation of psychic phenomena | 6/7 | Rigorous investigation of consciousness phenomena | 🔴 Not Started |
+| **Oliver Lodge** | 1851-1940 | Maverick Scientist | Physicist investigating consciousness survival | 6/7 | Consciousness research through scientific methodology | 🔴 Not Started |
+| **Julian of Norwich** | c. 1342-1416 | Contemplative Practitioner | Divine love mystical theology | 6/7 | Consciousness as participation in divine love | 🔴 Not Started |
+| **Evelyn Underhill** | 1875-1941 | Bridge Builder | Academic mysticism frameworks | 7/7 | Systematic study of consciousness transformation | 🔴 Not Started |
+| **Simone Weil** | 1909-1943 | Contemporary Philosopher | Attention as spiritual practice | 6/7 | Attention as consciousness purification | 🔴 Not Started |
+| **Mechthild of Magdeburg** | c. 1207-1282 | Contemplative Practitioner | Flowing Light mystical psychology | 6/7 | Consciousness flowing between human and divine | 🔴 Not Started |
+| **Hadewijch** | 13th century | Contemplative Practitioner | Love mysticism through courtly metaphors | 6/7 | Consciousness transformation through divine love | 🔴 Not Started |
+| **Gertrude the Great** | 1256-1302 | Contemplative Practitioner | Heart mysticism phenomenology | 6/7 | Consciousness centered in divine heart | 🔴 Not Started |
+| **Mogobe Ramose** | 1947-present | Contemporary Philosopher | Ubuntu philosophy - relational consciousness | 6/7 | Being as fundamentally interconnected | 🔴 Not Started |
+| **John Mbiti** | 1931-2019 | Contemporary Philosopher | African communal consciousness philosophy | 6/7 | Consciousness as community participation | 🔴 Not Started |
+| **Kwame Gyekye** | 1939-2019 | Contemporary Philosopher | Akan philosophy of personhood | 5/7 | Consciousness development through community wisdom | 🔴 Not Started |
+| **David Unaipon** | 1872-1967 | Indigenous Wisdom Keeper | Dreamtime consciousness concepts | 6/7 | Awareness connected to land and ancestors | 🔴 Not Started |
+| **Noel Pearson** | 1965-present | Indigenous Wisdom Keeper | Indigenous consciousness activism | 5/7 | Traditional awareness informing social change | 🔴 Not Started |
+| **Mudrooroo** | 1938-2019 | Indigenous Wisdom Keeper | Aboriginal consciousness through literature | 5/7 | Traditional awareness through modern expression | 🔴 Not Started |
+| **Wande Abimbola** | 1932-present | Bridge Builder | Ifá philosophy and consciousness | 6/7 | Divination and wisdom as consciousness development | 🔴 Not Started |
+| **Bolaji Idowu** | 1913-1993 | Bridge Builder | Yoruba consciousness theology | 5/7 | Traditional consciousness within religious thought | 🔴 Not Started |
+| **Taliesin** | 6th century | Contemplative Practitioner | Celtic consciousness shape-shifting | 6/7 | Awareness as shape-shifting between worlds | 🔴 Not Started |
+| **Fools Crow** | 1890-1989 | Indigenous Wisdom Keeper | Lakota vision quest traditions | 6/7 | Awareness through sacred visions and ceremonies | 🔴 Not Started |
+| **Rolling Thunder** | 1916-1997 | Indigenous Wisdom Keeper | Cherokee medicine consciousness | 6/7 | Healing through spiritual awareness | 🔴 Not Started |
+| **Sun Bear** | 1929-1992 | Indigenous Wisdom Keeper | Medicine wheel consciousness | 6/7 | Awareness through natural cycles | 🔴 Not Started |
+| **Credo Mutwa** | 1921-2020 | Indigenous Wisdom Keeper | Zulu shamanic consciousness | 7/7 | Healing and wisdom through ancestral connection | 🔴 Not Started |
+| **Malidoma Patrice Somé** | 1956-2021 | Indigenous Wisdom Keeper | Dagara ritual consciousness | 6/7 | Ritual and community as consciousness development | 🔴 Not Started |
+| **Serge Kahili King** | 1945-present | Bridge Builder | Hawaiian Huna consciousness | 6/7 | Mana and spiritual energy as consciousness development | 🔴 Not Started |
+| **Pim van Lommel** | 1943-present | Maverick Scientist | Lancet NDE study with flat EEG evidence | 7/7 | Non-local consciousness - brain as receiver | 🔴 Not Started |
+| **Michael Sabom** | 1946-present | Maverick Scientist | First systematic medical NDE studies | 7/7 | Empirical consciousness survival model | 🔴 Not Started |
+| **Peter Fenwick** | 1935-present | Maverick Scientist | Neuropsychiatrist studying dying process | 7/7 | Neurobiological consciousness transcendence | 🔴 Not Started |
+| **Jeffrey Long** | 1954-present | Maverick Scientist | NDERF database - 5,000+ NDE cases | 7/7 | Evidence-based consciousness survival | 🔴 Not Started |
 
 ## 1. Classical and Contemporary Philosophers
 
@@ -1359,3 +1359,22 @@ This comprehensive list represents 177 pioneers who have contributed to non-mate
 These pioneers collectively established foundations for contemporary consciousness studies, providing diverse approaches to understanding consciousness as a fundamental rather than emergent property of reality. Their work continues to influence neuroscience, psychology, physics, philosophy, and contemplative practices worldwide.
 
 The expanded list now includes 76 additional pioneers spanning from ancient Greek philosophers like Pythagoras and Heraclitus to medieval synthesizers like Al-Ghazali and Hildegard of Bingen, from early modern visionaries like Giordano Bruno (who died for his infinite consciousness beliefs) to 19th century pioneers like Helena Blavatsky and George Gurdjieff. Eastern masters including Sri Aurobindo, Nisargadatta Maharaj, and multiple Buddhist philosophers (Nagarjuna, Vasubandhu, Longchenpa) are now represented. Scientific researchers like Ian Stevenson (reincarnation studies) and Wilder Penfield (neurological dualism) join women mystics across centuries (Julian of Norwich, Marguerite Porete, Evelyn Underhill, Simone Weil). Indigenous wisdom keepers from multiple continents are included: African philosophers (Mogobe Ramose, John Mbiti), Aboriginal pioneers (David Unaipon), Native American medicine people (Fools Crow, Rolling Thunder), and African shamans (Credo Mutwa, Malidoma Somé). Critically important are the Near-Death Experience medical researchers (Pim van Lommel, Michael Sabom, Peter Fenwick, Jeffrey Long) whose rigorous clinical studies provide empirical evidence for consciousness existing independently of brain function. This creates one of the most comprehensive collections of non-materialistic consciousness theorists ever assembled, with improved representation across cultures, genders, time periods, and approaches.
+## Research Progress Log
+
+### 2025-07-05
+- **Pioneers Completed**: 
+  - Plato - Created comprehensive research profile
+  - Pythagoras - Created comprehensive research profile  
+  - Al-Ghazali - Created comprehensive research profile
+- **Key Findings**: 
+  - Established Plato as central node in Western non-materialist philosophy
+  - Revealed Pythagoras as the bridge between ancient mystery traditions and Greek philosophy
+  - Al-Ghazali demonstrates integration of rational philosophy with mystical experience
+  - Traced clear lineages: Egyptian/Babylonian → Pythagoras → Plato → Western tradition
+  - Cross-cultural bridge: Greek philosophy → Islamic thought → both Christian and Islamic mysticism
+- **Influence Connections Added**: 19 major relationships documented
+- **Emerging Patterns**: 
+  - Mathematical mysticism as foundation (Pythagoras → Plato)
+  - Personal crisis leading to epistemological breakthrough (Al-Ghazali)
+  - Philosophy as preparation for mystical insight across traditions
+- **Next Priority**: Consider Plotinus (completes Greek lineage), Ibn Arabi (Islamic mysticism), or Abhinavagupta (Kashmir Shaivism, 7/7)
